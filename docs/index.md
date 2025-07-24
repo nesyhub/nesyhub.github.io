@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Explore the Concept
-      link: http://localhost:5173/getting-started/fundamentals.html
+      link: /getting-started/fundamentals.html
     - theme: alt
       text: Latest Papers
       link: /research/papers/
