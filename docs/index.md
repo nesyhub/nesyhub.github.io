@@ -5,7 +5,7 @@ hero:
   text: "Advancing NeuroSymbolic AI"
   tagline: "Your gateway to the latest in NeuroSymbolic AI research, industry, and community."
   image:
-    src: ./public/logo.png
+    src: /logo.png
     alt: NesyHub Logo
   actions:
     - theme: brand
