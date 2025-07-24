@@ -1,3 +1,14 @@
 # Featured Publications
 
-<!-- Add your featured publications here. --> 
+Note: It is highly recommended to read the following papers
+
+
+## Large Language Models
+
+
+
+## Human-Computer Interaction
+
+
+
+## Programming Languages
