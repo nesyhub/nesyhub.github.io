@@ -269,3 +269,24 @@
 .is-home .VPNavBar {
   background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%) !important;
 }
+
+
+/* Add a little space above the main doc content for readability */
+.VPDoc {
+  padding-top: 2.5rem !important;
+}
+
+/* Vertically center only the homepage */
+.VPHome {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  min-height: 70vh;
+}
+
+/* Remove vertical centering from all other pages */
+.VPContent:not(.VPHome) {
+  display: block !important;
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+}

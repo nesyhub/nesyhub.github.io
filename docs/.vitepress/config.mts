@@ -80,7 +80,6 @@ export default defineConfig({
           items: [
             { text: 'Methodologies', link: '/getting-started/deep-dives#methodologies' },
             { text: 'Architecture patterns', link: '/getting-started/deep-dives#architecture-patterns' },
-            { text: 'Implementation guides', link: '/getting-started/deep-dives#implementation-guides' },
           ]
         },
         {
@@ -95,13 +94,12 @@ export default defineConfig({
       ],
       '/research/': [
         {
-          text: 'Academic Papers',
+          text: 'Publications',
           link: '/research/papers',
           items: [
-            { text: 'Peer-reviewed publications', link: '/research/papers#peer-reviewed-publications' },
-            { text: 'Preprints (arXiv, bioRxiv)', link: '/research/papers#preprints-arxiv-biorxiv' },
-            { text: 'Workshop papers', link: '/research/papers#workshop-papers' },
-            { text: 'Books', link: '/research/papers#books' },
+            { text: 'Featured Publications', link: '/research/featured-publications' },
+            { text: 'Preprints (arXiv)', link: '/research/preprints-arxiv' },
+            { text: 'Books', link: '/research/books' },
           ]
         },
         {
@@ -109,7 +107,6 @@ export default defineConfig({
           link: '/research/pis',
           items: [
             { text: 'Principal investigators', link: '/research/pis#principal-investigators' },
-            { text: 'Google Scholar', link: '/research/pis#google-scholar' },
           ]
         },
         {
