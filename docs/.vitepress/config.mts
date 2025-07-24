@@ -18,8 +18,8 @@ export default defineConfig({
       {
         text: 'Research Hub',
         items: [
-          { text: 'Academic Papers', link: '/research/papers' },
-          { text: 'Principal Investigators', link: '/research/pis' },
+          { text: 'Publications', link: '/research/papers' },
+          { text: 'Research Groups', link: '/research/pis' },
           { text: 'Conferences & Events', link: '/research/conferences' },
         ]
       },
@@ -103,10 +103,10 @@ export default defineConfig({
           ]
         },
         {
-          text: 'Principal Investigators',
+          text: 'Research Groups',
           link: '/research/pis',
           items: [
-            { text: 'Principal investigators', link: '/research/pis#principal-investigators' },
+            { text: 'Research Groups', link: '/research/pis#principal-investigators' },
           ]
         },
         {
