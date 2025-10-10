@@ -1,5 +1,152 @@
 # Preprints (arXiv)
 
+### 2025-10-02
+
+- [LOGicalThought: Logic-Based Ontological Grounding of LLMs for   High-Assurance Reasoning](http://arxiv.org/abs/2510.01530v1)  
+  Navapat Nananukul, Yue Zhang, Ryan Lee, Eric Boxer, Jonathan May, Vibhav Giridhar Gogate, Jay Pujara, Mayank Kejriwal
+
+### 2025-09-29
+
+- [BiHDTrans: binary hyperdimensional transformer for efficient   multivariate time series classification](http://arxiv.org/abs/2509.24425v1)  
+  Jingtao Zhang, Yi Liu, Qi Shen, Changhong Wang
+
+### 2025-09-28
+
+- [From Neural Networks to Logical Theories: The Correspondence between   Fibring Modal Logics and Fibring Neural Networks](http://arxiv.org/abs/2509.23912v1)  
+  Ouns El Harzli, Bernardo Cuenca Grau, Artur d'Avila Garcez, Ian Horrocks, Tarek R. Besold
+
+### 2025-09-26
+
+- [Integrating Background Knowledge in Medical Semantic Segmentation with   Logic Tensor Networks](http://arxiv.org/abs/2509.22399v1)  
+  Luca Bergamin, Giovanna Maria Dimitri, Fabio Aiolli
+
+### 2025-09-25
+
+- [Logic of Hypotheses: from Zero to Full Knowledge in Neurosymbolic   Integration](http://arxiv.org/abs/2509.21663v1)  
+  Davide Bizzaro, Alessandro Daniele
+
+### 2025-09-24
+
+- [Discovering Association Rules in High-Dimensional Small Tabular Data](http://arxiv.org/abs/2509.20113v2)  
+  Erkan Karabulut, Daniel Daza, Paul Groth, Victoria Degeler
+
+### 2025-09-23
+
+- [VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic   Vision-Language Planning for Zero-Shot Transfer in Robot Navigation](http://arxiv.org/abs/2509.18592v1)  
+  Neel P. Bhatt, Yunhao Yang, Rohan Siva, Pranay Samineni, Daniel Milan, Zhangyang Wang, Ufuk Topcu
+- [Automatic coherence-driven inference on arguments](http://arxiv.org/abs/2509.18523v1)  
+  Steve Huntsman
+
+### 2025-09-22
+
+- [Robustness of Neurosymbolic Reasoners on First-Order Logic Problems](http://arxiv.org/abs/2509.17377v1)  
+  Hannah Bansal, Kemal Kurniawan, Lea Frermann
+
+### 2025-09-13
+
+- [Neurosymbolic AI Transfer Learning Improves Network Intrusion Detection](http://arxiv.org/abs/2509.10850v1)  
+  Huynh T. T. Tran, Jacob Sander, Achraf Cohen, Brian Jalaian, Nathaniel D. Bastian
+
+### 2025-09-09
+
+- [DeepGraphLog for Layered Neurosymbolic AI](http://arxiv.org/abs/2509.07665v1)  
+  Adem Kikaj, Giuseppe Marra, Floris Geerts, Robin Manhaeve, Luc De Raedt
+
+### 2025-09-08
+
+- [Neuro-Symbolic Frameworks: Conceptual Characterization and Empirical   Comparative Analysis](http://arxiv.org/abs/2509.07122v1)  
+  Sania Sinha, Tanawan Premsri, Danial Kamali, Parisa Kordjamshidi
+
+### 2025-09-04
+
+- [Intermediate Languages Matter: Formal Languages and LLMs affect   Neurosymbolic Reasoning](http://arxiv.org/abs/2509.04083v1)  
+  Alexander Beiser, David Penz, Nysret Musliu
+
+### 2025-09-03
+
+- [Towards a Neurosymbolic Reasoning System Grounded in Schematic   Representations](http://arxiv.org/abs/2509.03644v1)  
+  François Olivier, Zied Bouraoui
+
+### 2025-09-02
+
+- [RNN Generalization to Omega-Regular Languages](http://arxiv.org/abs/2509.02491v1)  
+  Charles Pert, Dalal Alrajeh, Alessandra Russo
+
+### 2025-08-21
+
+- [T-ILR: a Neurosymbolic Integration for LTLf](http://arxiv.org/abs/2508.15943v1)  
+  Riccardo Andreoni, Andrei Buliga, Alessandro Daniele, Chiara Ghidini, Marco Montali, Massimiliano Ronzani
+- [Active Learning for Neurosymbolic Program Synthesis](http://arxiv.org/abs/2508.15750v2)  
+  Celeste Barnaby, Qiaochu Chen, Ramya Ramalingam, Osbert Bastani, Isil Dillig
+
+### 2025-08-19
+
+- [Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential   Decisions](http://arxiv.org/abs/2508.14294v1)  
+  Maria Leonor Pacheco, Fabio Somenzi, Dananjay Srinivas, Ashutosh Trivedi
+- [The DeepLog Neurosymbolic Machine](http://arxiv.org/abs/2508.13697v1)  
+  Vincent Derkinderen, Robin Manhaeve, Rik Adriaensen, Lucas Van Praet, Lennert De Smet, Giuseppe Marra, Luc De Raedt
+- [Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning   Abilities of Large Language Models](http://arxiv.org/abs/2508.13678v1)  
+  Xiao-Wen Yang, Jie-Jing Shao, Lan-Zhe Guo, Bo-Wen Zhang, Zhi Zhou, Lin-Han Jia, Wang-Zhou Dai, Yu-Feng Li
+
+### 2025-08-16
+
+- [Monotone Neural Control Barrier Certificates](http://arxiv.org/abs/2508.12178v2)  
+  Alireza Nadali, Ashutosh Trivedi, Majid Zamani, Saber Jafarpour
+- [Neurosymbolic Learning for Predicting Cell Fate Decisions from   Longitudinal Single Cell Transcriptomics in Paediatric Acute Myeloid Leukemia](http://arxiv.org/abs/2508.13199v1)  
+  Abicumaran Uthamacumaran, Hector Zenil
+
+### 2025-08-12
+
+- [TEN: Table Explicitization, Neurosymbolically](http://arxiv.org/abs/2508.09324v1)  
+  Nikita Mehrotra, Aayush Kumar, Sumit Gulwani, Arjun Radhakrishna, Ashish Tiwari
+
+### 2025-08-10
+
+- [Integrating Neurosymbolic AI in Advanced Air Mobility: A Comprehensive   Survey](http://arxiv.org/abs/2508.07163v1)  
+  Kamal Acharya, Iman Sharifi, Mehul Lad, Liang Sun, Houbing Song
+
+### 2025-08-07
+
+- [A Neurosymbolic Framework for Interpretable Cognitive Attack Detection   in Augmented Reality](http://arxiv.org/abs/2508.09185v2)  
+  Rongqian Chen, Allison Andreyev, Yanming Xiu, Mahdi Imani, Bin Li, Maria Gorlatova, Gang Tan, Tian Lan
+
+### 2025-08-06
+
+- [GradSTL: Comprehensive Signal Temporal Logic for Neurosymbolic Reasoning   and Learning](http://arxiv.org/abs/2508.04438v1)  
+  Mark Chevallier, Filip Smola, Richard Schmoetten, Jacques D. Fleuriot
+
+### 2025-08-05
+
+- [A DbC Inspired Neurosymbolic Layer for Trustworthy Agent Design](http://arxiv.org/abs/2508.03665v3)  
+  Claudiu Leoveanu-Condrei
+- [A Comparative Study of Neurosymbolic AI Approaches to Interpretable   Logical Reasoning](http://arxiv.org/abs/2508.03366v1)  
+  Michael K. Chen
+
+### 2025-08-02
+
+- [Bridging LLMs and Symbolic Reasoning in Educational QA Systems: Insights   from the XAI Challenge at IJCNN 2025](http://arxiv.org/abs/2508.01263v1)  
+  Long S. T. Nguyen, Khang H. N. Vo, Thu H. A. Nguyen, Tuan C. Bui, Duc Q. Nguyen, Thanh-Tung Tran, Anh D. Nguyen, Minh L. Nguyen, Fabien Baldacci, Thang H. Bui, Emanuel Di Nardo, Angelo Ciaramella, Son H. Le, Ihsan Ullah, Lorenzo Di Rocco, Tho T. Quan
+
+### 2025-08-01
+
+- [Composable OS Kernel Architectures for Autonomous Intelligence](http://arxiv.org/abs/2508.00604v1)  
+  Rajpreet Singh, Vidhi Kothari
+
+### 2025-07-29
+
+- [CoEx -- Co-evolving World-model and Exploration](http://arxiv.org/abs/2507.22281v1)  
+  Minsoo Kim, Seung-won Hwang
+
+### 2025-07-28
+
+- [Hanging Around: Cognitive Inspired Reasoning for Reactive Robotics](http://arxiv.org/abs/2507.20832v1)  
+  Mihai Pomarlan, Stefano De Giorgis, Rachel Ringe, Maria M. Hedblom, Nikolaos Tsiogkas
+
+### 2025-07-24
+
+- [Concept Probing: Where to Find Human-Defined Concepts (Extended Version)](http://arxiv.org/abs/2507.18681v1)  
+  Manuel de Sousa Ribeiro, Afonso Leote, João Leite
+
 ### 2025-07-21
 
 - [HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge   Graphs](http://arxiv.org/abs/2507.15917v2)  
