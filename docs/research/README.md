@@ -10,6 +10,7 @@ The `preprints-arxiv.md` file is automatically updated daily with new neurosymbo
 2. **Schedule**: GitHub Actions runs the script daily at 2 AM UTC
 3. **Auto-commit**: When new papers are found, changes are automatically committed and pushed to main
 4. **Workflow**: `.github/workflows/update-arxiv.yml`
+5. **Chart Data**: The script also generates `arxiv-stats.json` in `docs/public/research/` for the interactive chart displayed on the preprints page
 
 ### Manual Update
 

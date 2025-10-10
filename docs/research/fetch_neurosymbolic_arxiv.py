@@ -8,7 +8,7 @@ import json
 
 # Path to your markdown file
 MARKDOWN_PATH = "preprints-arxiv.md"
-JSON_PATH = "arxiv-stats.json"
+JSON_PATH = "../public/research/arxiv-stats.json"
 
 def count_papers_by_year(content):
     """Count papers by year from the markdown content."""
