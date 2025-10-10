@@ -4,21 +4,55 @@ from collections import defaultdict
 from datetime import datetime
 import re
 import os
+import json
 
 # Path to your markdown file
 MARKDOWN_PATH = "preprints-arxiv.md"
+JSON_PATH = "arxiv-stats.json"
+
+def count_papers_by_year(content):
+    """Count papers by year from the markdown content."""
+    year_counts = defaultdict(int)
+    year_pattern = re.compile(r"^## (\d{4})")
+    paper_pattern = re.compile(r"^- \[.*\]\(http://arxiv\.org/")
+    
+    lines = content.split('\n')
+    current_year = None
+    
+    for line in lines:
+        year_match = year_pattern.match(line.strip())
+        if year_match:
+            current_year = int(year_match.group(1))
+        elif current_year and paper_pattern.match(line.strip()):
+            year_counts[current_year] += 1
+    
+    return dict(year_counts)
+
+def save_year_stats(year_counts):
+    """Save year statistics to JSON file for the chart component."""
+    stats = {
+        "years": {str(year): count for year, count in sorted(year_counts.items())},
+        "total": sum(year_counts.values()),
+        "lastUpdated": datetime.now().isoformat()
+    }
+    with open(JSON_PATH, "w") as f:
+        json.dump(stats, f, indent=2)
+    print(f"Saved statistics to {JSON_PATH}")
 
 # 1. Parse the latest date in the markdown and split out the title
 latest_date = None
 date_pattern = re.compile(r"^### (\d{4}-\d{2}-\d{2})")
 title_line = ""
 rest_content = ""
+
 if os.path.exists(MARKDOWN_PATH):
     with open(MARKDOWN_PATH, "r") as f:
         lines = f.readlines()
         if lines:
             title_line = lines[0].rstrip("\n")
             rest_content = "".join(lines[1:]).lstrip("\n")
+        
+        # Find latest date
         for line in lines:
             match = date_pattern.match(line.strip())
             if match:
@@ -62,12 +96,22 @@ for date in sorted(papers_by_date.keys(), reverse=True):
         new_content.append(f"  {authors}")
     new_content.append("")  # Blank line between dates
 
-# 5. Write the updated markdown: title, new content, then the rest
+# 5. Write the updated markdown and generate JSON stats
 if new_content:
+    # Combine all content to count papers by year
+    all_content = "\n".join(new_content) + "\n" + rest_content
+    year_counts = count_papers_by_year(all_content)
+    
     with open(MARKDOWN_PATH, "w") as f:
         f.write(title_line.strip() + "\n\n")
         f.write("\n".join(new_content).strip() + "\n\n")
         f.write(rest_content.strip() + "\n")
+    
+    # Save statistics to JSON for the chart
+    save_year_stats(year_counts)
     print(f"Prepended {sum(len(v) for v in papers_by_date.values())} new papers to {MARKDOWN_PATH}")
 else:
+    # Even if no new papers, regenerate stats
+    year_counts = count_papers_by_year(rest_content)
+    save_year_stats(year_counts)
     print("No new preprints found since the latest date in the markdown.") 

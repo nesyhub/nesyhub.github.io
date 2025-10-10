@@ -1,5 +1,8 @@
 # Preprints (arXiv)
 
+<ArxivChartLoader />
+
+## 2025
 ### 2025-10-02
 
 - [LOGicalThought: Logic-Based Ontological Grounding of LLMs for   High-Assurance Reasoning](http://arxiv.org/abs/2510.01530v1)  
@@ -510,6 +513,7 @@
 - [LLMs as Repositories of Factual Knowledge: Limitations and Solutions](http://arxiv.org/abs/2501.12774v1)  
   Seyed Mahed Mousavi, Simone Alghisi, Giuseppe Riccardi
 
+## 2024
 ### 2024-12-23
 
 - [An Intrinsically Explainable Approach to Detecting Vertebral Compression   Fractures in CT Scans via Neurosymbolic Modeling](http://arxiv.org/abs/2412.17258v1)  
@@ -893,6 +897,7 @@
 - [A Survey on Verification and Validation, Testing and Evaluations of   Neurosymbolic Artificial Intelligence](http://arxiv.org/abs/2401.03188v2)  
   Justus Renkhoff, Ke Feng, Marc Meier-Doernberg, Alvaro Velasquez, Houbing Herbert Song
 
+## 2023
 ### 2023-12-21
 
 - [Structure-Aware Path Inference for Neural Finite State Transducers](http://arxiv.org/abs/2312.13614v1)  
@@ -1084,11 +1089,12 @@
 - [Invariants for neural automata](http://arxiv.org/abs/2302.02149v1)  
   Jone Uria-Albizuri, Giovanni Sirio Carmantini, Peter beim Graben, Serafim Rodrigues
 
+
 ### 2023-01-30
 
 - [NeSyFOLD: Neurosymbolic Framework for Interpretable Image Classification](http://arxiv.org/abs/2301.12667v3)  
   Parth Padalkar, Huaduo Wang, Gopal Gupta
-
+## 2022
 ### 2022-12-23
 
 - [A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic   Inference](http://arxiv.org/abs/2212.12393v3)  
@@ -1187,7 +1193,7 @@
 
 - [Safe Neurosymbolic Learning with Differentiable Symbolic Execution](http://arxiv.org/abs/2203.07671v1)  
   Chenxi Yang, Swarat Chaudhuri
-
+## 2021
 ### 2021-12-10
 
 - [Logical Boltzmann Machines](http://arxiv.org/abs/2112.05841v1)  
@@ -1240,6 +1246,7 @@
 - [Neurosymbolic Transformers for Multi-Agent Communication](http://arxiv.org/abs/2101.03238v1)  
   Jeevana Priya Inala, Yichen Yang, James Paulos, Yewen Pu, Osbert Bastani, Vijay Kumar, Martin Rinard, Armando Solar-Lezama
 
+## 2020
 ### 2020-12-28
 
 - [Commonsense Visual Sensemaking for Autonomous Driving: On Generalised   Neurosymbolic Online Abduction Integrating Vision and Semantics](http://arxiv.org/abs/2012.14359v1)  
@@ -1274,7 +1281,7 @@
 
 - [Understanding Boolean Function Learnability on Deep Neural Networks: PAC   Learning Meets Neurosymbolic Models](http://arxiv.org/abs/2009.05908v3)  
   Marcio Nicolau, Anderson R. Tavares, Zhiwei Zhang, Pedro Avelar, João M. Flach, Luis C. Lamb, Moshe Y. Vardi
-
+## 2019
 ### 2019-07-12
 
 - [Composing Neural Learning and Symbolic Reasoning with an Application to   Visual Discrimination](http://arxiv.org/abs/1907.05878v3)  
@@ -1284,7 +1291,7 @@
 
 - [Learning Neurosymbolic Generative Models via Program Synthesis](http://arxiv.org/abs/1901.08565v1)  
   Halley Young, Osbert Bastani, Mayur Naik
-
+## 2018
 ### 2018-03-31
 
 - [HOUDINI: Lifelong Learning as Program Synthesis](http://arxiv.org/abs/1804.00218v2)  
