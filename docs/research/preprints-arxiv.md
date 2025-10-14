@@ -1,5 +1,15 @@
 # Preprints (arXiv)
 
+### 2025-10-13
+
+- [COCO-Tree: Compositional Hierarchical Concept Trees for Enhanced   Reasoning in Vision Language Models](http://arxiv.org/abs/2510.11012v1)  
+  Sanchit Sinha, Guangzhi Xiong, Aidong Zhang
+
+### 2025-10-10
+
+- [GraphMERT: Efficient and Scalable Distillation of Reliable Knowledge   Graphs from Unstructured Data](http://arxiv.org/abs/2510.09580v1)  
+  Margarita Belova, Jiaxin Xiao, Shikhar Tuli, Niraj K. Jha
+
 <ArxivChartLoader />
 
 ## 2025
