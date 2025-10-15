@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-10-14
+
+- [CausalTrace: A Neurosymbolic Causal Analysis Agent for Smart   Manufacturing](http://arxiv.org/abs/2510.12033v1)  
+  Chathurangi Shyalika, Aryaman Sharma, Fadi El Kalach, Utkarshani Jaimini, Cory Henson, Ramy Harik, Amit Sheth
+
 ### 2025-10-13
 
 - [COCO-Tree: Compositional Hierarchical Concept Trees for Enhanced   Reasoning in Vision Language Models](http://arxiv.org/abs/2510.11012v1)  
