@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-10-17
+
+- [CQD-SHAP: Explainable Complex Query Answering via Shapley Values](http://arxiv.org/abs/2510.15623v1)  
+  Parsa Abbasi, Stefan Heindorf
+
 ### 2025-10-14
 
 - [CausalTrace: A Neurosymbolic Causal Analysis Agent for Smart   Manufacturing](http://arxiv.org/abs/2510.12033v1)  
