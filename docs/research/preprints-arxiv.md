@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-10-22
+
+- [NeSyPr: Neurosymbolic Proceduralization For Efficient Embodied Reasoning](http://arxiv.org/abs/2510.19429v1)  
+  Wonje Choi, Jooyoung Kim, Honguk Woo
+
 ### 2025-10-17
 
 - [CQD-SHAP: Explainable Complex Query Answering via Shapley Values](http://arxiv.org/abs/2510.15623v1)  
