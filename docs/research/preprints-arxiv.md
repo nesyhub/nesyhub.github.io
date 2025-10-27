@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-10-24
+
+- [Advancing Symbolic Integration in Large Language Models: Beyond   Conventional Neurosymbolic AI](http://arxiv.org/abs/2510.21425v1)  
+  Maneeha Rani, Bhupesh Kumar Mishra, Dhavalkumar Thakker
+
 ### 2025-10-22
 
 - [NeSyPr: Neurosymbolic Proceduralization For Efficient Embodied Reasoning](http://arxiv.org/abs/2510.19429v1)  
