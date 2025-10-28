@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-10-27
+
+- [Symbolic Neural Generation with Applications to Lead Discovery in Drug   Design](http://arxiv.org/abs/2510.23379v1)  
+  Ashwin Srinivasan, A Baskar, Tirtharaj Dash, Michael Bain, Sanjay Kumar Dey, Mainak Banerjee
+
 ### 2025-10-24
 
 - [Advancing Symbolic Integration in Large Language Models: Beyond   Conventional Neurosymbolic AI](http://arxiv.org/abs/2510.21425v1)  
