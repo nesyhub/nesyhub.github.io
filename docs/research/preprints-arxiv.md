@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-10-29
+
+- [Right for the Right Reasons: Avoiding Reasoning Shortcuts via   Prototypical Neurosymbolic AI](http://arxiv.org/abs/2510.25497v1)  
+  Luca Andolfi, Eleonora Giunchiglia
+
 ### 2025-10-27
 
 - [Symbolic Neural Generation with Applications to Lead Discovery in Drug   Design](http://arxiv.org/abs/2510.23379v1)  
