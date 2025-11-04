@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-10-30
+
+- [RepV: Safety-Separable Latent Spaces for Scalable Neurosymbolic Plan   Verification](http://arxiv.org/abs/2510.26935v1)  
+  Yunhao Yang, Neel P. Bhatt, Pranay Samineni, Rohan Siva, Zhanyang Wang, Ufuk Topcu
+
 ### 2025-10-29
 
 - [Right for the Right Reasons: Avoiding Reasoning Shortcuts via   Prototypical Neurosymbolic AI](http://arxiv.org/abs/2510.25497v1)  
