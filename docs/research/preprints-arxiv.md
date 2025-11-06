@@ -1,5 +1,17 @@
 # Preprints (arXiv)
 
+### 2025-11-04
+
+- [Neurosymbolic Deep Learning Semantics](http://arxiv.org/abs/2511.02825v1)  
+  Artur d'Avila Garcez, Simon Odense
+- [Large Lemma Miners: Can LLMs do Induction Proofs for Hardware?](http://arxiv.org/abs/2511.02521v1)  
+  Romy Peled, Daniel Kroening, Michael Tautschnig, Yakir Vizel
+
+### 2025-11-03
+
+- [Efficient Vector Symbolic Architectures from Histogram Recovery](http://arxiv.org/abs/2511.01838v1)  
+  Zirui Deng, Netanel Raviv
+
 ### 2025-10-30
 
 - [RepV: Safety-Separable Latent Spaces for Scalable Neurosymbolic Plan   Verification](http://arxiv.org/abs/2510.26935v1)  
