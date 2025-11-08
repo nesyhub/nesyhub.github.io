@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-11-06
+
+- [DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for   Embodied LLM-Based Multi-Agent Collaboration](http://arxiv.org/abs/2511.04646v1)  
+  Narjes Nourzad, Hanqing Yang, Shiyu Chen, Carlee Joe-Wong
+
 ### 2025-11-04
 
 - [Neurosymbolic Deep Learning Semantics](http://arxiv.org/abs/2511.02825v1)  
