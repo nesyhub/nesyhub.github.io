@@ -1,5 +1,29 @@
 # Preprints (arXiv)
 
+### 2025-11-12
+
+- [A Neurosymbolic Approach to Natural Language Formalization and Verification](https://arxiv.org/pdf/2511.09008v1)  
+  Sam Bayless, Stefano Buliani, Darion Cassel, Byron Cook, Duncan Clough, Rémi Delmas, Nafi Diallo, Ferhat Erata, Nick Feng, Dimitra Giannakopoulou, Aman Goel, Aditya Gokhale, Joe Hendrix, Marc Hudak, Dejan Jovanović, Andrew M. Kent, Benjamin Kiesl-Reiter, Jeffrey J. Kuna, Nadia Labai, Joseph Lilien, Divya Raghunathan, Zvonimir Rakamarić, Niloofar Razavi, Michael Tautschnig, Ali Torkamani, Nathaniel Weir, Michael W. Whalen, Jianan Yao
+
+### 2025-11-11
+
+- [CellARC: Measuring Intelligence with Cellular Automata](https://arxiv.org/pdf/2511.07908v1)  
+  Miroslav Lžičař
+- [Vector Symbolic Algebras for the Abstraction and Reasoning Corpus](https://arxiv.org/pdf/2511.08747v1)  
+  Isaac Joffe, Chris Eliasmith
+- [DeepProofLog: Efficient Proving in Deep Stochastic Logic Programs](https://arxiv.org/pdf/2511.08581v1)  
+  Ying Jiao, Rodrigo Castellano Ontiveros, Luc De Raedt, Marco Gori, Francesco Giannini, Michelangelo Diligenti, Giuseppe Marra
+
+### 2025-11-10
+
+- [Saliency Map-Guided Knowledge Discovery for Subclass Identification with LLM-Based Symbolic Approximations](https://arxiv.org/pdf/2511.07126v1)  
+  Tim Bohne, Anne-Kathrin Patricia Windler, Martin Atzmueller
+
+### 2025-11-08
+
+- [Evader-Agnostic Team-Based Pursuit Strategies in Partially-Observable Environments](https://arxiv.org/pdf/2511.05812v1)  
+  Addison Kalanther, Daniel Bostwick, Chinmay Maheshwari, Shankar Sastry
+
 ### 2025-11-06
 
 - [DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for   Embodied LLM-Based Multi-Agent Collaboration](http://arxiv.org/abs/2511.04646v1)  
