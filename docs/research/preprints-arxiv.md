@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-11-13
+
+- [DELICATE: Diachronic Entity LInking using Classes And Temporal Evidence](https://arxiv.org/pdf/2511.10404v1)  
+  Cristian Santini, Sebastian Barzaghi, Paolo Sernani, Emanuele Frontoni, Mehwish Alam
+
 ### 2025-11-12
 
 - [A Neurosymbolic Approach to Natural Language Formalization and Verification](https://arxiv.org/pdf/2511.09008v1)  
