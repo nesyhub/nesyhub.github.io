@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-11-14
+
+- [From Retinal Pixels to Patients: Evolution of Deep Learning Research in Diabetic Retinopathy Screening](https://arxiv.org/abs/2511.11065v1)  
+  Muskaan Chopra, Lorenz Sparrenberg, Armin Berger, Sarthak Khanna, Jan H. Terheyden, Rafet Sifa
+
 ### 2025-11-13
 
 - [DELICATE: Diachronic Entity LInking using Classes And Temporal Evidence](https://arxiv.org/pdf/2511.10404v1)  
