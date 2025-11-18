@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-11-15
+
+- [LLM-Assisted Formalization Enables Deterministic Detection of Statutory Inconsistency in the Internal Revenue Code](https://arxiv.org/abs/2511.11954v1)  
+  Borchuluun Yadamsuren, Steven Keith Platt, Miguel Diaz
+
 ### 2025-11-14
 
 - [From Retinal Pixels to Patients: Evolution of Deep Learning Research in Diabetic Retinopathy Screening](https://arxiv.org/abs/2511.11065v1)  
