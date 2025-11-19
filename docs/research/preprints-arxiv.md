@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-11-18
+
+- [A Neuro-Symbolic Framework for Reasoning under Perceptual Uncertainty: Bridging Continuous Perception and Discrete Symbolic Planning](https://arxiv.org/abs/2511.14533v1)  
+  Jiahao Wu, Shengwen Yu
+
 ### 2025-11-15
 
 - [LLM-Assisted Formalization Enables Deterministic Detection of Statutory Inconsistency in the Internal Revenue Code](https://arxiv.org/abs/2511.11954v1)  
