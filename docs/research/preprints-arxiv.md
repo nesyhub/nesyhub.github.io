@@ -1,5 +1,19 @@
 # Preprints (arXiv)
 
+### 2025-11-20
+
+- [From Polynomials to Databases: Arithmetic Structures in Galois Theory](https://arxiv.org/abs/2511.16622v1)  
+  Jurgen Mezinaj
+- [Reasoning Meets Representation: Envisioning Neuro-Symbolic Wireless Foundation Models](https://arxiv.org/abs/2511.16369v1)  
+  Jaron Fontaine, Mohammad Cheraghinia, John Strassner, Adnan Shahid, Eli De Poorter
+
+### 2025-11-19
+
+- [One algebra for all : Geometric Algebra methods for neurosymbolic XR scene authoring, animation and neural rendering](https://arxiv.org/abs/2511.15398v1)  
+  Manos Kamarianakis, Antonis Protopsaltis, George Papagiannakis
+- [ProRAC: A Neuro-symbolic Method for Reasoning about Actions with LLM-based Progression](https://arxiv.org/abs/2511.15069v1)  
+  Haoyong Wu, Yongmei Liu
+
 ### 2025-11-18
 
 - [A Neuro-Symbolic Framework for Reasoning under Perceptual Uncertainty: Bridging Continuous Perception and Discrete Symbolic Planning](https://arxiv.org/abs/2511.14533v1)  
