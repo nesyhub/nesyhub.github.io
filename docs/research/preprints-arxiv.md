@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-11-21
+
+- [The Belief-Desire-Intention Ontology for modelling mental reality and agency](https://arxiv.org/abs/2511.17162v1)  
+  Sara Zuppiroli, Carmelo Fabio Longo, Anna Sofia Lippolis, Rocco Paolillo, Lorenzo Giammei, Miguel Ceriani, Francesco Poggi, Antonio Zinilli, Andrea Giovanni Nuzzolese
+
 ### 2025-11-20
 
 - [From Polynomials to Databases: Arithmetic Structures in Galois Theory](https://arxiv.org/abs/2511.16622v1)  
