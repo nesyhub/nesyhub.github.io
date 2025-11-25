@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2025-11-24
+
+- [Synthesizing Visual Concepts as Vision-Language Programs](https://arxiv.org/abs/2511.18964v1)  
+  Antonia Wüst, Wolfgang Stammer, Hikaru Shindo, Lukas Helff, Devendra Singh Dhami, Kristian Kersting
+- [ObjectAlign: Neuro-Symbolic Object Consistency Verification and Correction](https://arxiv.org/abs/2511.18701v1)  
+  Mustafa Munir, Harsh Goel, Xiwen Wei, Minkyu Choi, Sahil Shah, Kartikeya Bhardwaj, Paul Whatmough, Sandeep Chinchali, Radu Marculescu
+
 ### 2025-11-21
 
 - [The Belief-Desire-Intention Ontology for modelling mental reality and agency](https://arxiv.org/abs/2511.17162v1)  
