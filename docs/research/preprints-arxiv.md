@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-11-25
+
+- [Gated Uncertainty-Aware Runtime Dual Invariants for Neural Signal-Controlled Robotics](https://arxiv.org/abs/2511.20570v1)  
+  Tasha Kim, Oiwi Parker Jones
+
 ### 2025-11-24
 
 - [Synthesizing Visual Concepts as Vision-Language Programs](https://arxiv.org/abs/2511.18964v1)  
