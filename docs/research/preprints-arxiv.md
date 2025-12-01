@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2025-11-28
+
+- [Beyond Curve Fitting: Neuro-Symbolic Agents for Context-Aware Epidemic Forecasting](https://arxiv.org/abs/2511.23276v1)  
+  Joongwon Chae, Runming Wang, Chen Xiong, Gong Yunhan, Lian Zhang, Ji Jiansong, Dongmei Yu, Peiwu Qin
+- [Neuro-Symbolic Constrained Optimization for Cloud Application Deployment via Graph Neural Networks and Satisfiability Modulo Theory](https://arxiv.org/abs/2511.23109v1)  
+  Madalina Erascu
+
 ### 2025-11-25
 
 - [Gated Uncertainty-Aware Runtime Dual Invariants for Neural Signal-Controlled Robotics](https://arxiv.org/abs/2511.20570v1)  
