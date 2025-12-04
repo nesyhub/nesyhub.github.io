@@ -1,5 +1,27 @@
 # Preprints (arXiv)
 
+### 2025-12-03
+
+- [Modal Logical Neural Networks](https://arxiv.org/abs/2512.03491v1)  
+  Antonin Sulc
+
+### 2025-12-02
+
+- [Hierarchical Process Reward Models are Symbolic Vision Learners](https://arxiv.org/abs/2512.03126v1)  
+  Shan Zhang, Aotian Chen, Kai Zou, Jindong Gu, Yuan Xue, Anton van den Hengel
+- [Learning interpretable surface elasticity properties from bulk properties](https://arxiv.org/abs/2512.02985v1)  
+  Saaketh Desai, Prasad P. Iyer, Remi Dingreville
+
+### 2025-12-01
+
+- [Probabilistic Neuro-Symbolic Reasoning for Sparse Historical Data: A Framework Integrating Bayesian Inference, Causal Models, and Game-Theoretic Allocation](https://arxiv.org/abs/2512.01723v1)  
+  Saba Kublashvili
+
+### 2025-11-30
+
+- [Med-CRAFT: Automated Construction of Interpretable and Multi-Hop Video Workloads via Knowledge Graph Traversal](https://arxiv.org/abs/2512.01045v1)  
+  Shenxi Liu, Kan Li, Mingyang Zhao, Yuhang Tian, Shoujun Zhou, Bin Li
+
 ### 2025-11-28
 
 - [Beyond Curve Fitting: Neuro-Symbolic Agents for Context-Aware Epidemic Forecasting](https://arxiv.org/abs/2511.23276v1)  
