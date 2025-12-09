@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-12-08
+
+- [NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models](https://arxiv.org/abs/2512.07218v1)  
+  Feng Liang, Weixin Zeng, Runhao Zhao, Xiang Zhao
+
 ### 2025-12-03
 
 - [Modal Logical Neural Networks](https://arxiv.org/abs/2512.03491v1)  
