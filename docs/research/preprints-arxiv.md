@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-12-09
+
+- [Autonomous Issue Resolver: Towards Zero-Touch Code Maintenance](https://arxiv.org/abs/2512.08492v1)  
+  Aliaksei Kaliutau
+
 ### 2025-12-08
 
 - [NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models](https://arxiv.org/abs/2512.07218v1)  
