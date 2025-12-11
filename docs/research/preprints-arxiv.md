@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2025-12-10
+
+- [Neurosymbolic Information Extraction from Transactional Documents](https://arxiv.org/abs/2512.09666v1)  
+  Arthur Hemmer, Mickaël Coustaty, Nicola Bartolo, Jean-Marc Ogier
+- [Visual Categorization Across Minds and Models: Cognitive Analysis of Human Labeling and Neuro-Symbolic Integration](https://arxiv.org/abs/2512.09340v1)  
+  Chethana Prasad Kabgere
+
 ### 2025-12-09
 
 - [Autonomous Issue Resolver: Towards Zero-Touch Code Maintenance](https://arxiv.org/abs/2512.08492v1)  
