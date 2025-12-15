@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-12-12
+
+- [Architecting Large Action Models for Human-in-the-Loop Intelligent Robots](https://arxiv.org/abs/2512.11620v1)  
+  Kanisorn Sangchai, Methasit Boonpun, Withawin Kraipetchara, Paulo Garcia
+
 ### 2025-12-10
 
 - [Neurosymbolic Information Extraction from Transactional Documents](https://arxiv.org/abs/2512.09666v1)  
