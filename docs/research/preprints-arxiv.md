@@ -1,5 +1,15 @@
 # Preprints (arXiv)
 
+### 2025-12-15
+
+- [A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments](https://arxiv.org/abs/2512.13517v1)  
+  Raymond Khazoum, Daniela Fernandes, Aleksandr Krylov, Qin Li, Stephane Deny
+
+### 2025-12-13
+
+- [A neuro-symbolic framework for accountability in public-sector AI](https://arxiv.org/abs/2512.12109v1)  
+  Allen Daniel Sunny
+
 ### 2025-12-12
 
 - [Architecting Large Action Models for Human-in-the-Loop Intelligent Robots](https://arxiv.org/abs/2512.11620v1)  
