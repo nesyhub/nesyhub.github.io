@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-12-16
+
+- [Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries](https://arxiv.org/abs/2512.14102v1)  
+  Emanuele Mezzi, Gertjan Burghouts, Maarten Kruithof
+
 ### 2025-12-15
 
 - [A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments](https://arxiv.org/abs/2512.13517v1)  
