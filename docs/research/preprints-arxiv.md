@@ -1,5 +1,17 @@
 # Preprints (arXiv)
 
+### 2025-12-18
+
+- [Blog Data Showdown: Machine Learning vs Neuro-Symbolic Models for Gender Classification](https://arxiv.org/abs/2512.16687v1)  
+  Natnael Tilahun Sinshaw, Mengmei He, Tadesse K. Bahiru, Sudhir Kumar Mohapatra
+- [Introducing ORKG ASK: an AI-driven Scholarly Literature Search and Exploration System Taking a Neuro-Symbolic Approach](https://arxiv.org/abs/2512.16425v1)  
+  Allard Oelen, Mohamad Yaser Jaradeh, Sören Auer
+
+### 2025-12-17
+
+- [A Neurosymbolic Approach to Loop Invariant Generation via Weakest Precondition Reasoning](https://arxiv.org/abs/2512.15816v1)  
+  Daragh King, Vasileios Koutavas, Laura Kovacs
+
 ### 2025-12-16
 
 - [Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries](https://arxiv.org/abs/2512.14102v1)  
