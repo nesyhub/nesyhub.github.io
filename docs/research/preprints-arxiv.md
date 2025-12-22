@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-12-19
+
+- [Neuro-Symbolic Control with Large Language Models for Language-Guided Spatial Tasks](https://arxiv.org/abs/2512.17321v1)  
+  Momina Liaqat Ali, Muhammad Abid
+
 ### 2025-12-18
 
 - [Blog Data Showdown: Machine Learning vs Neuro-Symbolic Models for Gender Classification](https://arxiv.org/abs/2512.16687v1)  
