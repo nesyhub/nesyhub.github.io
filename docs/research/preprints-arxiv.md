@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2025-12-20
+
+- [LLM Agents Implement an NLG System from Scratch: Building Interpretable Rule-Based RDF-to-Text Generators](https://arxiv.org/abs/2512.18360v1)  
+  Mateusz Lango, Ondřej Dušek
+- [NEURO-GUARD: Neuro-Symbolic Generalization and Unbiased Adaptive Routing for Diagnostics -- Explainable Medical AI](https://arxiv.org/abs/2512.18177v1)  
+  Midhat Urooj, Ayan Banerjee, Sandeep Gupta
+
 ### 2025-12-19
 
 - [Neuro-Symbolic Control with Large Language Models for Language-Guided Spatial Tasks](https://arxiv.org/abs/2512.17321v1)  
