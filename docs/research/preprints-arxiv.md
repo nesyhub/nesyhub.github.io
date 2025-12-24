@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2025-12-23
+
+- [Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks](https://arxiv.org/abs/2512.20275v1)  
+  Divya Vijay, Vignesh Ethiraj
+- [Memory as Resonance: A Biomimetic Architecture for Infinite Context Memory on Ergodic Phonetic Manifolds](https://arxiv.org/abs/2512.20245v1)  
+  Tarik Houichime, Abdelghani Souhar, Younes El Amrani
+
 ### 2025-12-20
 
 - [LLM Agents Implement an NLG System from Scratch: Building Interpretable Rule-Based RDF-to-Text Generators](https://arxiv.org/abs/2512.18360v1)  
