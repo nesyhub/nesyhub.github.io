@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2025-12-26
+
+- [Hybrid-Code: A Privacy-Preserving, Redundant Multi-Agent Framework for Reliable Local Clinical Coding](https://arxiv.org/abs/2512.23743v1)  
+  Yunguo Yu
+
 ### 2025-12-23
 
 - [Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks](https://arxiv.org/abs/2512.20275v1)  
