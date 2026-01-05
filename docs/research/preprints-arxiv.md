@@ -1,5 +1,17 @@
 # Preprints (arXiv)
 
+### 2026-01-02
+
+- [An Agentic Framework for Neuro-Symbolic Programming](https://arxiv.org/abs/2601.00743v1)  
+  Aliakbar Nafar, Chetan Chigurupati, Danial Kamali, Hamid Karimian, Parisa Kordjamshidi
+
+### 2025-12-31
+
+- [Constructing a Neuro-Symbolic Mathematician from First Principles](https://arxiv.org/abs/2601.00125v1)  
+  Keqin Xie
+- [RIMRULE: Improving Tool-Using Language Agents via MDL-Guided Rule Learning](https://arxiv.org/abs/2601.00086v1)  
+  Xiang Gao, Yuguang Yao, Qi Zhang, Kaiwen Dong, Avinash Baidya, Ruocheng Guo, Hilaf Hasson, Kamalika Das
+
 ### 2025-12-26
 
 - [Hybrid-Code: A Privacy-Preserving, Redundant Multi-Agent Framework for Reliable Local Clinical Coding](https://arxiv.org/abs/2512.23743v1)  
