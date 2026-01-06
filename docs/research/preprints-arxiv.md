@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-01-05
+
+- [XAI-MeD: Explainable Knowledge Guided Neuro-Symbolic Framework for Domain Generalization and Rare Class Detection in Medical Imaging](https://arxiv.org/abs/2601.02008v1)  
+  Midhat Urooj, Ayan Banerjee, Sandeep Gupta
+- [ChaosBench-Logic: A Benchmark for Logical and Symbolic Reasoning on Chaotic Dynamical Systems](https://arxiv.org/abs/2601.01982v1)  
+  Noel Thomas
+- [Toward Auditable Neuro-Symbolic Reasoning in Pathology: SQL as an Explicit Trace of Evidence](https://arxiv.org/abs/2601.01875v1)  
+  Kewen Cao, Jianxu Chen, Yongbing Zhang, Ye Zhang, Hongxiao Wang
+
 ### 2026-01-02
 
 - [An Agentic Framework for Neuro-Symbolic Programming](https://arxiv.org/abs/2601.00743v1)  
