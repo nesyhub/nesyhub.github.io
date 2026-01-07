@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-01-06
+
+- [Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning](https://arxiv.org/abs/2601.02902v1)  
+  Xinglang Zhang, Yunyao Zhang, ZeLiang Chen, Junqing Yu, Wei Yang, Zikai Song
+- [Sample-Efficient Neurosymbolic Deep Reinforcement Learning](https://arxiv.org/abs/2601.02850v1)  
+  Celeste Veronese, Daniele Meli, Alessandro Farinelli
+
 ### 2026-01-05
 
 - [XAI-MeD: Explainable Knowledge Guided Neuro-Symbolic Framework for Domain Generalization and Rare Class Detection in Medical Imaging](https://arxiv.org/abs/2601.02008v1)  
