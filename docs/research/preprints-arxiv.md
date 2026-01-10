@@ -1,5 +1,19 @@
 # Preprints (arXiv)
 
+### 2026-01-08
+
+- [Publishing FAIR and Machine-actionable Reviews in Materials Science: The Case for Symbolic Knowledge in Neuro-symbolic Artificial Intelligence](https://arxiv.org/abs/2601.05051v1)  
+  Jennifer D'Souza, Soren Auer, Eleni Poupaki, Alex Watkins, Anjana Devi, Riikka L. Puurunen, Bora Karasulu, Adrie Mackus, Erwin Kessels
+- [Neurosymbolic Retrievers for Retrieval-augmented Generation](https://arxiv.org/abs/2601.04568v1)  
+  Yash Saxena, Manas Gaur
+
+### 2026-01-07
+
+- [Logic Tensor Network-Enhanced Generative Adversarial Network](https://arxiv.org/abs/2601.03839v1)  
+  Nijesh Upreti, Vaishak Belle
+- [ReEfBench: Quantifying the Reasoning Efficiency of LLMs](https://arxiv.org/abs/2601.03550v1)  
+  Zhizhang Fu, Yuancheng Gu, Chenkai Hu, Hanmeng Liu, Yue Zhang
+
 ### 2026-01-06
 
 - [Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning](https://arxiv.org/abs/2601.02902v1)  
