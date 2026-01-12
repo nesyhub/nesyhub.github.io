@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-01-09
+
+- [Logic-Parametric Neuro-Symbolic NLI: Controlling Logical Formalisms for Verifiable LLM Reasoning](https://arxiv.org/abs/2601.05705v1)  
+  Ali Farjami, Luca Redondi, Marco Valentino
+
 ### 2026-01-08
 
 - [Publishing FAIR and Machine-actionable Reviews in Materials Science: The Case for Symbolic Knowledge in Neuro-symbolic Artificial Intelligence](https://arxiv.org/abs/2601.05051v1)  
