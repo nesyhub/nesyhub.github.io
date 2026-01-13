@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-01-12
+
+- [IFDNS: An Iterative Feedback-Driven Neuro-Symbolic Method for Faithful Logical Reasoning](https://arxiv.org/abs/2601.07464v1)  
+  Xiaoheng Wang, Tongxuan Liu, Zi Gong, Xianzhe Dong, Yuting Zeng, Minhan Hu, Weizhe Huang, Jing Li
+
 ### 2026-01-09
 
 - [Logic-Parametric Neuro-Symbolic NLI: Controlling Logical Formalisms for Verifiable LLM Reasoning](https://arxiv.org/abs/2601.05705v1)  
