@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-01-13
+
+- [Inferring Latent Intentions: Attributional Natural Language Inference in LLM Agents](https://arxiv.org/abs/2601.08742v1)  
+  Xin Quan, Jiafeng Xiong, Marco Valentino, André Freitas
+- [TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)  
+  Prithwish Jana, Sam Davidson, Bhavana Bhasker, Andrey Kan, Anoop Deoras, Laurent Callot
+
 ### 2026-01-12
 
 - [IFDNS: An Iterative Feedback-Driven Neuro-Symbolic Method for Faithful Logical Reasoning](https://arxiv.org/abs/2601.07464v1)  
