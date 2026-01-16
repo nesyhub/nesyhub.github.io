@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-01-15
+
+- [Breaking Up with Normatively Monolithic Agency with GRACE: A Reason-Based Neuro-Symbolic Architecture for Safe and Ethical AI Alignment](https://arxiv.org/abs/2601.10520v1)  
+  Felix Jahn, Yannic Muskalla, Lisa Dargasz, Patrick Schramowski, Kevin Baum
+- [NSR-Boost: A Neuro-Symbolic Residual Boosting Framework for Industrial Legacy Models](https://arxiv.org/abs/2601.10457v1)  
+  Ziming Dai, Dabiao Ma, Jinle Tong, Mengyuan Han, Jian Yang, Haojun Fei
+- [MATRIX AS PLAN: Structured Logical Reasoning with Feedback-Driven Replanning](https://arxiv.org/abs/2601.10101v1)  
+  Ke Chen, Jiandian Zeng, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang
+
 ### 2026-01-13
 
 - [Inferring Latent Intentions: Attributional Natural Language Inference in LLM Agents](https://arxiv.org/abs/2601.08742v1)  
