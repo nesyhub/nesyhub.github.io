@@ -1,5 +1,24 @@
 # Preprints (arXiv)
 
+### 2026-01-19
+
+- [NeuroShield: A Neuro-Symbolic Framework for Adversarial Robustness](https://arxiv.org/abs/2601.13162v1)  
+  Ali Shafiee Sarvestani, Jason Schmidt, Arman Roohi
+- [VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](https://arxiv.org/abs/2601.12781v1)  
+  Hyejin Park, Junhyuk Kwon, Suha Kwak, Jungseul Ok
+- [Neurosymbolic LoRA: Why and When to Tune Weights vs. Rewrite Prompts](https://arxiv.org/abs/2601.12711v1)  
+  Kevin Wang, Neel P. Bhatt, Cong Liu, Junbo Li, Runjin Chen, Yihan Xi, Timothy Barclay, Alvaro Velasquez, Ufuk Topcu, Zhangyang Wang
+
+### 2026-01-18
+
+- [Constraint-Aware Neurosymbolic Uncertainty Quantification with Bayesian Deep Learning for Scientific Discovery](https://arxiv.org/abs/2601.12442v1)  
+  Shahnawaz Alam, Mohammed Mudassir Uddin, Mohammed Kaif Pasha
+
+### 2026-01-17
+
+- [Imandra CodeLogician: Neuro-Symbolic Reasoning for Precise Analysis of Software Logic](https://arxiv.org/abs/2601.11840v1)  
+  Hongyu Lin, Samer Abdallah, Makar Valentinov, Paul Brennan, Elijah Kagan, Christoph M. Wintersteiger, Denis Ignatovich, Grant Passmore
+
 ### 2026-01-15
 
 - [Breaking Up with Normatively Monolithic Agency with GRACE: A Reason-Based Neuro-Symbolic Architecture for Safe and Ethical AI Alignment](https://arxiv.org/abs/2601.10520v1)  
