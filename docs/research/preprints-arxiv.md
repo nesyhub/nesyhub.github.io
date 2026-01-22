@@ -1,5 +1,19 @@
 # Preprints (arXiv)
 
+### 2026-01-21
+
+- [To Neuro-Symbolic Classification and Beyond by Compiling Description Logic Ontologies to Probabilistic Circuits](https://arxiv.org/abs/2601.14894v1)  
+  Nicolas Lazzari, Valentina Presutti, Antonio Vergari
+- [Towards Cybersecurity Superintelligence: from AI-guided humans to human-guided AI](https://arxiv.org/abs/2601.14614v1)  
+  Víctor Mayoral-Vilches, Stefan Rass, Martin Pinzger, Endika Gil-Uriarte, Unai Ayucar-Carbajo, Jon Ander Ruiz-Alcalde, Maite del Mundo de Torres, Luis Javier Navarrete-Lozano, María Sanz-Gómez, Francesco Balassone, Cristóbal R. J. Veas-Chavez, Vanesa Turiel, Alfonso Glera-Picón, Daniel Sánchez-Prieto, Yuri Salvatierra, Paul Zabalegui-Landa, Ruffino Reydel Cabrera-Álvarez, Patxi Mayoral-Pizarroso
+
+### 2026-01-20
+
+- [Report for NSF Workshop on AI for Electronic Design Automation](https://arxiv.org/abs/2601.14541v1)  
+  Deming Chen, Vijay Ganesh, Weikai Li, Yingyan, Lin, Yong Liu, Subhasish Mitra, David Z. Pan, Ruchir Puri, Jason Cong, Yizhou Sun
+- [Differentiable Logic Synthesis: Spectral Coefficient Selection via Sinkhorn-Constrained Composition](https://arxiv.org/abs/2601.13953v1)  
+  Gorgi Pavlov
+
 ### 2026-01-19
 
 - [NeuroShield: A Neuro-Symbolic Framework for Adversarial Robustness](https://arxiv.org/abs/2601.13162v1)  
