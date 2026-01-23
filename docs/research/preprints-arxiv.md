@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-01-22
+
+- [ICON: Invariant Counterfactual Optimization with Neuro-Symbolic Priors for Text-Based Person Search](https://arxiv.org/abs/2601.15931v1)  
+  Xiangyu Wang, Zhixin Lv, Yongjiao Sun, Anrui Han, Ye Yuan, Hangxu Ji
+- [Autonomous Business System via Neuro-symbolic AI](https://arxiv.org/abs/2601.15599v1)  
+  Cecil Pang, Hiroki Sayama
+
 ### 2026-01-21
 
 - [To Neuro-Symbolic Classification and Beyond by Compiling Description Logic Ontologies to Probabilistic Circuits](https://arxiv.org/abs/2601.14894v1)  
