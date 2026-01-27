@@ -1,5 +1,19 @@
 # Preprints (arXiv)
 
+### 2026-01-26
+
+- [Capturing P: On the Expressive Power and Efficient Evaluation of Boolean Retrieval](https://arxiv.org/abs/2601.18747v1)  
+  Amir Aavani
+- [CASSANDRA: Programmatic and Probabilistic Learning and Inference for Stochastic World Modeling](https://arxiv.org/abs/2601.18620v1)  
+  Panagiotis Lymperopoulos, Abhiramon Rajasekharan, Ian Berlot-Attwell, Stéphane Aroca-Ouellette, Kaheer Suleman
+- [A Balanced Neuro-Symbolic Approach for Commonsense Abductive Logic](https://arxiv.org/abs/2601.18595v1)  
+  Joseph Cotnareanu, Didier Chetelat, Yingxue Zhang, Mark Coates
+
+### 2026-01-25
+
+- [Neuro-Symbolic Verification on Instruction Following of LLMs](https://arxiv.org/abs/2601.17789v1)  
+  Yiming Su, Kunzhao Xu, Yanjie Gao, Fan Yang, Cheng Li, Mao Yang, Tianyin Xu
+
 ### 2026-01-22
 
 - [ICON: Invariant Counterfactual Optimization with Neuro-Symbolic Priors for Text-Based Person Search](https://arxiv.org/abs/2601.15931v1)  
