@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-01-27
+
+- [Decompose-and-Formalise: Recursively Verifiable Natural Language Inference](https://arxiv.org/abs/2601.19605v1)  
+  Xin Quan, Marco Valentino, Louise A. Dennis, André Freitas
+- [Physics-Informed Neuro-Symbolic Recommender System: A Dual-Physics Approach for Personalized Nutrition](https://arxiv.org/abs/2601.19244v1)  
+  Chayan Banerjee
+
 ### 2026-01-26
 
 - [Capturing P: On the Expressive Power and Efficient Evaluation of Boolean Retrieval](https://arxiv.org/abs/2601.18747v1)  
