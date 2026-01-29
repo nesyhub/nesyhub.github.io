@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-01-28
+
+- [REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)  
+  Zishen Wan, Che-Kai Liu, Jiayi Qian, Hanchen Yang, Arijit Raychowdhury, Tushar Krishna
+
 ### 2026-01-27
 
 - [Decompose-and-Formalise: Recursively Verifiable Natural Language Inference](https://arxiv.org/abs/2601.19605v1)  
