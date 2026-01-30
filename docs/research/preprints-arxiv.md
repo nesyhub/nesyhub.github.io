@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-01-29
+
+- [Modeling Endogenous Logic: Causal Neuro-Symbolic Reasoning Model for Explainable Multi-Behavior Recommendation](https://arxiv.org/abs/2601.21335v1)  
+  Yuzhe Chen, Jie Cao, Youquan Wang, Haicheng Tao, Darko B. Vukovic, Jia Wu
+- [Bridging the Arithmetic Gap: The Cognitive Complexity Benchmark and Financial-PoT for Robust Financial Reasoning](https://arxiv.org/abs/2601.21157v1)  
+  Boxiang Zhao, Qince Li, Zhonghao Wang, Yi Wang, Peng Cheng, Bo Lin
+
 ### 2026-01-28
 
 - [REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](https://arxiv.org/abs/2601.20784v1)  
