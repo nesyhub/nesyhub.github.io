@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-01-30
+
+- [OrLog: Resolving Complex Queries with LLMs and Probabilistic Reasoning](https://arxiv.org/abs/2601.23085v1)  
+  Mohanna Hoveyda, Jelle Piepenbrock, Arjen P de Vries, Maarten de Rijke, Faegheh Hasibi
+- [Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification](https://arxiv.org/abs/2601.22642v1)  
+  Chuxue Cao, Jinluan Yang, Haoran Li, Kunhao Pan, Zijian Zhao, Zhengyu Chen, Yuchen Tian, Lijun Wu, Conghui He, Sirui Han, Yike Guo
+- [MCP-Diag: A Deterministic, Protocol-Driven Architecture for AI-Native Network Diagnostics](https://arxiv.org/abs/2601.22633v1)  
+  Devansh Lodha, Mohit Panchal, Sameer G. Kulkarni
+
 ### 2026-01-29
 
 - [Modeling Endogenous Logic: Causal Neuro-Symbolic Reasoning Model for Explainable Multi-Behavior Recommendation](https://arxiv.org/abs/2601.21335v1)  
