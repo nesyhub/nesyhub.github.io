@@ -1,5 +1,20 @@
 # Preprints (arXiv)
 
+### 2026-02-02
+
+- [Logic-Guided Vector Fields for Constrained Generative Modeling](https://arxiv.org/abs/2602.02009v1)  
+  Ali Baheri
+
+### 2026-02-01
+
+- [ASP-Bench: From Natural Language to Logic Programs](https://arxiv.org/abs/2602.01171v1)  
+  Stefan Szeider
+
+### 2026-01-31
+
+- [Neuro-symbolic AI for Predictive Maintenance (PdM) -- review and recommendations](https://arxiv.org/abs/2602.00731v1)  
+  Kyle Hamilton, Ali Intizar
+
 ### 2026-01-30
 
 - [OrLog: Resolving Complex Queries with LLMs and Probabilistic Reasoning](https://arxiv.org/abs/2601.23085v1)  
