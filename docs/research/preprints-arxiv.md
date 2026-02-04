@@ -1,5 +1,20 @@
 # Preprints (arXiv)
 
+### 2026-02-03
+
+- [Accelerating Scientific Research with Gemini: Case Studies and Common Techniques](https://arxiv.org/abs/2602.03837v1)  
+  David P. Woodruff, Vincent Cohen-Addad, Lalit Jain, Jieming Mao, Song Zuo, MohammadHossein Bateni, Simina Branzei, Michael P. Brenner, Lin Chen, Ying Feng, Lance Fortnow, Gang Fu, Ziyi Guan, Zahra Hadizadeh, Mohammad T. Hajiaghayi, Mahdi JafariRaviz, Adel Javanmard, Karthik C. S., Ken-ichi Kawarabayashi, Ravi Kumar, Silvio Lattanzi, Euiwoong Lee, Yi Li, Ioannis Panageas, Dimitris Paparas, Benjamin Przybocki, Bernardo Subercaseaux, Ola Svensson, Shayan Taherijam, Xuan Wu, Eylon Yogev, Morteza Zadimoghaddam, Samson Zhou, Vahab Mirrokni
+- [Tutorial on Reasoning for IR & IR for Reasoning](https://arxiv.org/abs/2602.03640v1)  
+  Mohanna Hoveyda, Panagiotis Efstratiadis, Arjen de Vries, Maarten de Rijke
+- [DeepDFA: Injecting Temporal Logic in Deep Learning for Sequential Subsymbolic Applications](https://arxiv.org/abs/2602.03486v1)  
+  Elena Umili, Francesco Argenziano, Roberto Capobianco
+- [Bongards at the Boundary of Perception and Reasoning: Programs or Language?](https://arxiv.org/abs/2602.03038v1)  
+  Cassidy Langenfeld, Claas Beger, Gloria Geng, Wasu Top Piriyakulkij, Keya Hu, Yewen Pu, Kevin Ellis
+- [KANFIS A Neuro-Symbolic Framework for Interpretable and Uncertainty-Aware Learning](https://arxiv.org/abs/2602.03034v1)  
+  Binbin Yong, Haoran Pei, Jun Shen, Haoran Li, Qingguo Zhou, Zhao Su
+- [RPG-AE: Neuro-Symbolic Graph Autoencoders with Rare Pattern Mining for Provenance-Based Anomaly Detection](https://arxiv.org/abs/2602.02929v1)  
+  Asif Tauhid, Sidahmed Benabderrahmane, Mohamad Altrabulsi, Ahamed Foisal, Talal Rahwan
+
 ### 2026-02-02
 
 - [Logic-Guided Vector Fields for Constrained Generative Modeling](https://arxiv.org/abs/2602.02009v1)  
