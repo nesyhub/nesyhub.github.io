@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-02-04
+
+- [Enforcing Monotonic Progress in Legal Cross-Examination: Preventing Long-Horizon Stagnation in LLM-Based Inquiry](https://arxiv.org/abs/2602.04206v1)  
+  Hsien-Jyh Liao
+
 ### 2026-02-03
 
 - [Accelerating Scientific Research with Gemini: Case Studies and Common Techniques](https://arxiv.org/abs/2602.03837v1)  
