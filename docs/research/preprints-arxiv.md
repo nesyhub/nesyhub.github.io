@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-02-05
+
+- [PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling](https://arxiv.org/abs/2602.06030v1)  
+  Kavana Venkatesh, Yinhan He, Jundong Li, Jiaming Cui
+
 ### 2026-02-04
 
 - [Enforcing Monotonic Progress in Legal Cross-Examination: Preventing Long-Horizon Stagnation in LLM-Based Inquiry](https://arxiv.org/abs/2602.04206v1)  
