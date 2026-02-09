@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-02-06
+
+- [Wild Guesses and Mild Guesses in Active Concept Learning](https://arxiv.org/abs/2602.06818v1)  
+  Anirudh Chari, Neil Pattanaik
+
 ### 2026-02-05
 
 - [PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling](https://arxiv.org/abs/2602.06030v1)  
