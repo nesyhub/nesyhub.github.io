@@ -1,5 +1,37 @@
 # Preprints (arXiv)
 
+### 2026-02-11
+
+- [FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight](https://arxiv.org/abs/2602.11136v1)  
+  Jiayi Zhou, Yang Sheng, Hantao Lou, Yaodong Yang, Jie Fu
+- [The Neurosymbolic Frontier of Nonuniform Ellipticity: Formalizing Sharp Schauder Theory via Topos-Theoretic Reasoning Models](https://arxiv.org/abs/2602.10632v1)  
+  Suyash Mishra
+- [Neuro-symbolic Action Masking for Deep Reinforcement Learning](https://arxiv.org/abs/2602.10598v1)  
+  Shuai Han, Mehdi Dastani, Shihan Wang
+- [Neuro-Symbolic Synergy for Interactive World Modeling](https://arxiv.org/abs/2602.10480v1)  
+  Hongyu Zhao, Siyu Zhou, Haolin Yang, Zengyi Qin, Tianyi Zhou
+
+### 2026-02-10
+
+- [QRS: A Rule-Synthesizing Neuro-Symbolic Triad for Autonomous Vulnerability Discovery](https://arxiv.org/abs/2602.09774v1)  
+  George Tsigkourakos, Constantinos Patsakis
+- [LLM-Grounded Dynamic Task Planning with Hierarchical Temporal Logic for Human-Aware Multi-Robot Collaboration](https://arxiv.org/abs/2602.09472v1)  
+  Shuyuan Hu, Tao Lin, Kai Ye, Yang Yang, Tianwei Zhang
+
+### 2026-02-09
+
+- [Differentiable Logical Programming for Quantum Circuit Discovery and Optimization](https://arxiv.org/abs/2602.08880v1)  
+  Antonin Sulc
+- [LLMs + Security = Trouble](https://arxiv.org/abs/2602.08422v1)  
+  Benjamin Livshits
+- [Grounding Generative Planners in Verifiable Logic: A Hybrid Architecture for Trustworthy Embodied AI](https://arxiv.org/abs/2602.08373v1)  
+  Feiyu Wu, Xu Zheng, Yue Qu, Zhuocheng Wang, Zicheng Feng, Hui Li
+
+### 2026-02-08
+
+- [On Improving Neurosymbolic Learning by Exploiting the Representation Space](https://arxiv.org/abs/2602.07973v1)  
+  Aaditya Naik, Efthymia Tsamoura, Shibo Jin, Mayur Naik, Dan Roth
+
 ### 2026-02-06
 
 - [Wild Guesses and Mild Guesses in Active Concept Learning](https://arxiv.org/abs/2602.06818v1)  
