@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-02-12
+
+- [Differentiable Modal Logic for Multi-Agent Diagnosis, Orchestration and Communication](https://arxiv.org/abs/2602.12083v1)  
+  Antonin Sulc
+- [PhyNiKCE: A Neurosymbolic Agentic Framework for Autonomous Computational Fluid Dynamics](https://arxiv.org/abs/2602.11666v1)  
+  E Fan, Lisong Shi, Zhengtong Li, Chih-yung Wen
+- [Neuro-Symbolic Multitasking: A Unified Framework for Discovering Generalizable Solutions to PDE Families](https://arxiv.org/abs/2602.11630v1)  
+  Yipeng Huang, Dejun Xu, Zexin Lin, Zhenzhong Wang, Min Jiang
+
 ### 2026-02-11
 
 - [FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight](https://arxiv.org/abs/2602.11136v1)  
