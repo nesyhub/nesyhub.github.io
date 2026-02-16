@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-02-13
+
+- [Chimera: Neuro-Symbolic Attention Primitives for Trustworthy Dataplane Intelligence](https://arxiv.org/abs/2602.12851v1)  
+  Rong Fu, Wenxin Zhang, Xiaowen Ma, Kun Liu, Wangyu Wu, Ziyu Kong, Jia Yee Tan, Tailong Luo, Xianda Li, Zeli Su, Youjin Wang, Yongtai Liu, Simon Fong
+
 ### 2026-02-12
 
 - [Differentiable Modal Logic for Multi-Agent Diagnosis, Orchestration and Communication](https://arxiv.org/abs/2602.12083v1)  
