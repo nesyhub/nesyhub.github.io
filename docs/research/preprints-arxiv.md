@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-02-16
+
+- [Return of the Schema: Building Complete Datasets for Machine Learning and Reasoning on Knowledge Graphs](https://arxiv.org/abs/2602.14795v1)  
+  Ivan Diliso, Roberto Barile, Claudia d'Amato, Nicola Fanizzi
+
 ### 2026-02-13
 
 - [Chimera: Neuro-Symbolic Attention Primitives for Trustworthy Dataplane Intelligence](https://arxiv.org/abs/2602.12851v1)  
