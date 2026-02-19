@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-02-18
+
+- [SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)  
+  Jaid Monwar Chowdhury, Chi-An Fu, Reyhaneh Jabbarvand
+
 ### 2026-02-16
 
 - [Return of the Schema: Building Complete Datasets for Machine Learning and Reasoning on Knowledge Graphs](https://arxiv.org/abs/2602.14795v1)  
