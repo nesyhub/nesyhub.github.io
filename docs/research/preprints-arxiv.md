@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-02-19
+
+- [Sonar-TS: Search-Then-Verify Natural Language Querying for Time Series Databases](https://arxiv.org/abs/2602.17001v1)  
+  Zhao Tan, Yiji Zhao, Shiyu Wang, Chang Xu, Yuxuan Liang, Xiping Liu, Shirui Pan, Ming Jin
+
 ### 2026-02-18
 
 - [SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)  
