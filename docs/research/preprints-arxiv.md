@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-02-20
+
+- [Neurosymbolic Language Reasoning as Satisfiability Modulo Theory](https://arxiv.org/abs/2602.18095v1)  
+  Hyunseok Oh, Sam Stern, Youngki Lee, Matthai Philipose
+- [Aurora: Neuro-Symbolic AI Driven Advising Agent](https://arxiv.org/abs/2602.17999v1)  
+  Lorena Amanda Quincoso Lugones, Christopher Kverne, Nityam Sharadkumar Bhimani, Ana Carolina Oliveira, Agoritsa Polyzou, Christine Lisetti, Janki Bhimani
+
 ### 2026-02-19
 
 - [Sonar-TS: Search-Then-Verify Natural Language Querying for Time Series Databases](https://arxiv.org/abs/2602.17001v1)  
