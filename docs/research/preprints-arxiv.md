@@ -1,5 +1,20 @@
 # Preprints (arXiv)
 
+### 2026-02-23
+
+- [A Three-stage Neuro-symbolic Recommendation Pipeline for Cultural Heritage Knowledge Graphs](https://arxiv.org/abs/2602.19711v1)  
+  Krzysztof Kutt, Elżbieta Sroka, Oleksandra Ishchuk, Luiz do Valle Miranda
+
+### 2026-02-22
+
+- [The Price Is Not Right: Neuro-Symbolic Methods Outperform VLAs on Structured Long-Horizon Manipulation Tasks with Significantly Lower Energy Consumption](https://arxiv.org/abs/2602.19260v1)  
+  Timothy Duggan, Pierrick Lorang, Hong Lu, Matthias Scheutz
+
+### 2026-02-21
+
+- [Adaptive Collaboration of Arena-Based Argumentative LLMs for Explainable and Contestable Legal Reasoning](https://arxiv.org/abs/2602.18916v1)  
+  Hoang-Loc Cao, Phuc Ho, Truong Thanh Hung Nguyen, Phuc Truong Loc Nguyen, Dinh Thien Loc Nguyen, Hung Cao
+
 ### 2026-02-20
 
 - [Neurosymbolic Language Reasoning as Satisfiability Modulo Theory](https://arxiv.org/abs/2602.18095v1)  
