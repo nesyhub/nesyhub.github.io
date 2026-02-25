@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-02-24
+
+- [LogicGraph : Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification](https://arxiv.org/abs/2602.21044v1)  
+  Yanrui Wu, Lingling Zhang, Xinyu Zhang, Jiayu Chang, Pengyu Li, Xu Jiang, Jingtao Hu, Jun Liu
+
 ### 2026-02-23
 
 - [A Three-stage Neuro-symbolic Recommendation Pipeline for Cultural Heritage Knowledge Graphs](https://arxiv.org/abs/2602.19711v1)  
