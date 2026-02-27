@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-02-26
+
+- [WaterVideoQA: ASV-Centric Perception and Rule-Compliant Reasoning via Multi-Modal Agents](https://arxiv.org/abs/2602.22923v1)  
+  Runwei Guan, Shaofeng Liang, Ningwei Ouyang, Weichen Fei, Shanliang Yao, Wei Dai, Chenhao Ge, Penglei Sun, Xiaohui Zhu, Tao Huang, Ryan Wen Liu, Hui Xiong
+
 ### 2026-02-25
 
 - [NGDB-Zoo: Towards Efficient and Scalable Neural Graph Databases Training](https://arxiv.org/abs/2602.21597v1)  
