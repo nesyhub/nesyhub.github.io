@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-02-27
+
+- [Toward Guarantees for Clinical Reasoning in Vision Language Models via Formal Verification](https://arxiv.org/abs/2602.24111v1)  
+  Vikash Singh, Debargha Ganguly, Haotian Yu, Chengwei Zhou, Prerna Singh, Brandon Lee, Vipin Chaudhary, Gourav Datta
+- [From Signals to Causes: A Causal Signal Processing Framework for Robust and Interpretable Clinical Risk Prediction](https://arxiv.org/abs/2602.23977v1)  
+  Surajit Das, Maxine Tan
+
 ### 2026-02-26
 
 - [WaterVideoQA: ASV-Centric Perception and Rule-Compliant Reasoning via Multi-Modal Agents](https://arxiv.org/abs/2602.22923v1)  
