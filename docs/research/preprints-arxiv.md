@@ -1,5 +1,24 @@
 # Preprints (arXiv)
 
+### 2026-03-02
+
+- [NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation](https://arxiv.org/abs/2603.01756v1)  
+  Rong Fu, Yiqing Lyu, Chunlei Meng, Muge Qi, Yabin Jin, Qi Zhao, Li Bao, Juntao Gao, Fuqian Shi, Nilanjan Dey, Wei Luo, Simon Fong
+
+### 2026-03-01
+
+- [NeuroSCA: Neuro-Symbolic Constraint Abstraction for Smart Contract Hybrid Fuzzing](https://arxiv.org/abs/2603.01272v1)  
+  Haochen Liang, Jiawei Chen, Hideya Ochiai
+- [Egocentric Co-Pilot: Web-Native Smart-Glasses Agents for Assistive Egocentric AI](https://arxiv.org/abs/2603.01104v1)  
+  Sicheng Yang, Yukai Huang, Weitong Cai, Shitong Sun, Fengyi Fang, You He, Yiqiao Xie, Jiankang Deng, Hang Zhang, Jifei Song, Zhensong Zhang
+- [BioProAgent: Neuro-Symbolic Grounding for Constrained Scientific Planning](https://arxiv.org/abs/2603.00876v1)  
+  Yuyang Liu, Jingya Wang, Liuzhenghao Lv, Yonghong Tian
+
+### 2026-02-28
+
+- [Neurosymbolic Learning for Advanced Persistent Threat Detection under Extreme Class Imbalance](https://arxiv.org/abs/2603.00453v1)  
+  Quhura Fathima, Neda Moghim, Mostafa Taghizade Firouzjaee, Christo K. Thomas, Ross Gore, Walid Saad
+
 ### 2026-02-27
 
 - [Toward Guarantees for Clinical Reasoning in Vision Language Models via Formal Verification](https://arxiv.org/abs/2602.24111v1)  
