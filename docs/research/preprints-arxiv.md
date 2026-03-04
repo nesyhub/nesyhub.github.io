@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-03-03
+
+- [Neuro-Symbolic Artificial Intelligence: A Task-Directed Survey in the Black-Box Models Era](https://arxiv.org/abs/2603.03177v1)  
+  Giovanni Pio Delvecchio, Lorenzo Molfetta, Gianluca Moro
+- [NeuroProlog: Multi-Task Fine-Tuning for Neurosymbolic Mathematical Reasoning via the Cocktail Effect](https://arxiv.org/abs/2603.02504v1)  
+  Pratibha Zunjare, Michael Hsiao
+
 ### 2026-03-02
 
 - [NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation](https://arxiv.org/abs/2603.01756v1)  
