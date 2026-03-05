@@ -1,5 +1,16 @@
 # Preprints (arXiv)
 
+### 2026-03-04
+
+- [Continuous Modal Logical Neural Networks: Modal Reasoning via Stochastic Accessibility](https://arxiv.org/abs/2603.04019v1)  
+  Antonin Sulc
+- [From Threat Intelligence to Firewall Rules: Semantic Relations in Hybrid AI Agent and Expert System Architectures](https://arxiv.org/abs/2603.03911v1)  
+  Chiara Bonfanti, Davide Colaiacomo, Luca Cagliero, Cataldo Basile
+- [AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment](https://arxiv.org/abs/2603.03686v1)  
+  Jiangyu Chen
+- [Can LLM Aid in Solving Constraints with Inductive Definitions?](https://arxiv.org/abs/2603.03668v1)  
+  Weizhi Feng, Shidong Shen, Jiaxiang Liu, Taolue Chen, Fu Song, Zhilin Wu
+
 ### 2026-03-03
 
 - [Neuro-Symbolic Artificial Intelligence: A Task-Directed Survey in the Black-Box Models Era](https://arxiv.org/abs/2603.03177v1)  
