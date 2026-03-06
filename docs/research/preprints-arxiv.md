@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-03-05
+
+- [Distilling Formal Logic into Neural Spaces: A Kernel Alignment Approach for Signal Temporal Logic](https://arxiv.org/abs/2603.05198v1)  
+  Sara Candussio, Gabriele Sarti, Gaia Saveri, Luca Bortolussi
+- [HACHIMI: Scalable and Controllable Student Persona Generation via Orchestrated Agents](https://arxiv.org/abs/2603.04855v1)  
+  Yilin Jiang, Fei Tan, Xuanyu Yin, Jing Leng, Aimin Zhou
+- [Solving an Open Problem in Theoretical Physics using AI-Assisted Discovery](https://arxiv.org/abs/2603.04735v1)  
+  Michael P. Brenner, Vincent Cohen-Addad, David Woodruff
+
 ### 2026-03-04
 
 - [Continuous Modal Logical Neural Networks: Modal Reasoning via Stochastic Accessibility](https://arxiv.org/abs/2603.04019v1)  
