@@ -1,5 +1,16 @@
 # Preprints (arXiv)
 
+### 2026-03-06
+
+- [Boosting deep Reinforcement Learning using pretraining with Logical Options](https://arxiv.org/abs/2603.06565v1)  
+  Zihan Ye, Phil Chau, Raban Emunds, Jannis Blüml, Cedric Derstroff, Quentin Delfosse, Oleg Arenz, Kristian Kersting
+- [Semantics-Aware Caching for Concept Learning](https://arxiv.org/abs/2603.06506v1)  
+  Louis Mozart Kamdem Teyou, Caglar Demir, Axel-Cyrille Ngonga Ngomo
+- [The EpisTwin: A Knowledge Graph-Grounded Neuro-Symbolic Architecture for Personal AI](https://arxiv.org/abs/2603.06290v1)  
+  Giovanni Servedio, Potito Aghilar, Alessio Mattiace, Gianni Carmosino, Francesco Musicco, Gabriele Conte, Vito Walter Anelli, Tommaso Di Noia, Francesco Maria Donini
+- [Making Implicit Premises Explicit in Logical Understanding of Enthymemes](https://arxiv.org/abs/2603.06114v1)  
+  Xuyao Feng, Anthony Hunter
+
 ### 2026-03-05
 
 - [Distilling Formal Logic into Neural Spaces: A Kernel Alignment Approach for Signal Temporal Logic](https://arxiv.org/abs/2603.05198v1)  
