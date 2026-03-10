@@ -1,5 +1,19 @@
 # Preprints (arXiv)
 
+### 2026-03-09
+
+- [Bilevel Planning with Learned Symbolic Abstractions from Interaction Data](https://arxiv.org/abs/2603.08599v1)  
+  Fatih Dogangun, Burcu Kilic, Serdar Bahar, Emre Ugur
+- [Agentic Neurosymbolic Collaboration for Mathematical Discovery: A Case Study in Combinatorial Design](https://arxiv.org/abs/2603.08322v1)  
+  Hai Xia, Carla P. Gomes, Bart Selman, Stefan Szeider
+- [CORE-Acu: Structured Reasoning Traces and Knowledge Graph Safety Verification for Acupuncture Clinical Decision Support](https://arxiv.org/abs/2603.08321v1)  
+  Liuyi Xu, Yun Guo, Ming Chen, Zihan Dun, Yining Qian, An-Yang Lu, Shuang Li, Lijun Liu
+
+### 2026-03-08
+
+- [Reasoning Knowledge-Gap in Drone Planning via LLM-based Active Elicitation](https://arxiv.org/abs/2603.07824v1)  
+  Zeyu Fang, Beomyeol Yu, Cheng Liu, Zeyuan Yang, Rongqian Chen, Yuxin Lin, Mahdi Imani, Tian Lan
+
 ### 2026-03-06
 
 - [Boosting deep Reinforcement Learning using pretraining with Logical Options](https://arxiv.org/abs/2603.06565v1)  
