@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-03-10
+
+- [Epistemic Closure: Autonomous Mechanism Completion for Physically Consistent Simulation](https://arxiv.org/abs/2603.09756v1)  
+  Yue Wua, Tianhao Su, Rui Hu, Mingchuan Zhao, Shunbo Hu, Deng Pan, Jizhong Huang
+- [NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models](https://arxiv.org/abs/2603.09542v1)  
+  Ziyue Zhu, Shangyang Wu, Shuai Zhao, Zhiqiu Zhao, Shengjie Li, Yi Wang, Fang Li, Haoran Luo
+
 ### 2026-03-09
 
 - [Bilevel Planning with Learned Symbolic Abstractions from Interaction Data](https://arxiv.org/abs/2603.08599v1)  
