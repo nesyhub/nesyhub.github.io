@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-03-13
+
+- [Delta1 with LLM: symbolic and neural integration for credible and explainable reasoning](https://arxiv.org/abs/2603.12953v1)  
+  Yang Xu, Jun Liu, Shuwei Chen, Chris Nugent, Hailing Guo
+
 ### 2026-03-12
 
 - [Grammar of the Wave: Towards Explainable Multivariate Time Series Event Detection via Neuro-Symbolic VLM Agents](https://arxiv.org/abs/2603.11479v1)  
