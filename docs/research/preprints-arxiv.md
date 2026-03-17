@@ -1,5 +1,23 @@
 # Preprints (arXiv)
 
+### 2026-03-16
+
+- [Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory](https://arxiv.org/abs/2603.15280v1)  
+  Rongjie Jiang, Jianwei Wang, Gengda Zhao, Chengyang Luo, Kai Wang, Wenjie Zhang
+- [Beyond Monolithic Models: Symbolic Seams for Composable Neuro-Symbolic Architectures](https://arxiv.org/abs/2603.15087v1)  
+  Nicolas Schuler, Vincenzo Scotti, Raffaela Mirandola
+- [GameUIAgent: An LLM-Powered Framework for Automated Game UI Design with Structured Intermediate Representation](https://arxiv.org/abs/2603.14724v1)  
+  Wei Zeng, Fengwei An, Zhen Liu, Jian Zhao
+
+### 2026-03-15
+
+- [s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs](https://arxiv.org/abs/2603.14628v1)  
+  Balaji Rao, John Harrison, Soonho Kong, Juneyoung Lee, Carlo Lipizzi
+- [The Scenic Route to Deception: Dark Patterns and Explainability Pitfalls in Conversational Navigation](https://arxiv.org/abs/2603.14586v1)  
+  Ilya Ilyankou, Stefano Cavazzi, James Haworth
+- [A Real-Time Neuro-Symbolic Ethical Governor for Safe Decision Control in Autonomous Robotic Manipulation](https://arxiv.org/abs/2603.14221v1)  
+  Aueaphum Aueawatthanaphisut, Kuepon Aueawatthanaphisut
+
 ### 2026-03-13
 
 - [Delta1 with LLM: symbolic and neural integration for credible and explainable reasoning](https://arxiv.org/abs/2603.12953v1)  
