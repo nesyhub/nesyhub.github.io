@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-03-17
+
+- [From Natural Language to Executable Option Strategies via Large Language Models](https://arxiv.org/abs/2603.16434v1)  
+  Haochen Luo, Zhengzhao Lai, Junjie Xu, Yifan Li, Tang Pok Hin, Yuan Zhang, Chen Liu
+- [NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing](https://arxiv.org/abs/2603.16307v1)  
+  Ming Yang, Zhi Zhou, Shi-Yu Tian, Kun-Yang Yu, Lan-Zhe Guo, Yu-Feng Li
+
 ### 2026-03-16
 
 - [Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory](https://arxiv.org/abs/2603.15280v1)  
