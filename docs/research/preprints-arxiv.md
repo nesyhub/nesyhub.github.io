@@ -1,5 +1,19 @@
 # Preprints (arXiv)
 
+### 2026-03-19
+
+- [Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer](https://arxiv.org/abs/2603.18719v1)  
+  Mohamed Youssef, Mayar Elfares, Anna-Maria Meer, Matteo Bortoletto, Andreas Bulling
+- [Cross-Domain Demo-to-Code via Neurosymbolic Counterfactual Reasoning](https://arxiv.org/abs/2603.18495v1)  
+  Jooyoung Kim, Wonje Choi, Younguk Song, Honguk Woo
+- [AS2 -- Attention-Based Soft Answer Sets: An End-to-End Differentiable Neuro-Soft-Symbolic Reasoning Architecture](https://arxiv.org/abs/2603.18436v1)  
+  Wael AbdAlmageed
+
+### 2026-03-18
+
+- [ARTEMIS: A Neuro Symbolic Framework for Economically Constrained Market Dynamics](https://arxiv.org/abs/2603.18107v1)  
+  Rahul D Ray
+
 ### 2026-03-17
 
 - [From Natural Language to Executable Option Strategies via Large Language Models](https://arxiv.org/abs/2603.16434v1)  
