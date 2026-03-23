@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-03-20
+
+- [DALI: LLM-Agent Enhanced Dual-Stream Adaptive Leadership Identification for Group Recommendations](https://arxiv.org/abs/2603.19909v1)  
+  Boxun Song, Min Gao, Jiawei Cheng
+- [FormalEvolve: Neuro-Symbolic Evolutionary Search for Diverse and Prover-Effective Autoformalization](https://arxiv.org/abs/2603.19828v1)  
+  Haijian Lu, Wei Wang, Jing Liu
+- [Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification](https://arxiv.org/abs/2603.19715v1)  
+  Baoding He, Zenan Li, Wei Sun, Yuan Yao, Taolue Chen, Xiaoxing Ma, Zhendong Su
+
 ### 2026-03-19
 
 - [Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer](https://arxiv.org/abs/2603.18719v1)  
