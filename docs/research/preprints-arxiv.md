@@ -1,5 +1,24 @@
 # Preprints (arXiv)
 
+### 2026-03-23
+
+- [Stabilizing Iterative Self-Training with Verified Reasoning via Symbolic Recursive Self-Alignment](https://arxiv.org/abs/2603.21558v1)  
+  Xinyu Zhang
+- [SafePilot: A Framework for Assuring LLM-enabled Cyber-Physical Systems](https://arxiv.org/abs/2603.21523v1)  
+  Weizhe Xu, Mengyu Liu, Fanxin Kong
+
+### 2026-03-22
+
+- [Graph of States: Solving Abductive Tasks with Large Language Models](https://arxiv.org/abs/2603.21250v1)  
+  Yu Luo, Rongchen Gao, Lu Teng, Xidao Wen, Jiamin Jiang, Qingliang Zhang, Yongqian Sun, Shenglin Zhang, Jiasong Feng, Tong Liu, Wenjie Zhang, Dan Pei
+- [NeSy-Edge: Neuro-Symbolic Trustworthy Self-Healing in the Computing Continuum](https://arxiv.org/abs/2603.21145v1)  
+  Peihan Ye, Alfreds Lapkovskis, Alaa Saleh, Qiyang Zhang, Praveen Kumar Donta
+
+### 2026-03-21
+
+- [Agentic Physical-AI for Self-Aware RF Systems](https://arxiv.org/abs/2603.20692v1)  
+  Linuka Ratnayake, Danidu Dabare, Sanuja Rupasinghe, Warren Jayakumar, Dileepa Marasinghe, Chamira U. S. Edussooriya, Arjuna Madanayake
+
 ### 2026-03-20
 
 - [DALI: LLM-Agent Enhanced Dual-Stream Adaptive Leadership Identification for Group Recommendations](https://arxiv.org/abs/2603.19909v1)  
