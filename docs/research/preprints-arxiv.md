@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-03-24
+
+- [Reliable Classroom AI via Neuro-Symbolic Multimodal Reasoning](https://arxiv.org/abs/2603.22793v1)  
+  Sina Bagheri Nezhad
+
 ### 2026-03-23
 
 - [Stabilizing Iterative Self-Training with Verified Reasoning via Symbolic Recursive Self-Alignment](https://arxiv.org/abs/2603.21558v1)  
