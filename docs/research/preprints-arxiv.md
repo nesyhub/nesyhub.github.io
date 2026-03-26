@@ -1,5 +1,18 @@
 # Preprints (arXiv)
 
+### 2026-03-25
+
+- [A Neuro-Symbolic System for Interpretable Multimodal Physiological Signals Integration in Human Fatigue Detection](https://arxiv.org/abs/2603.24358v1)  
+  Mohammadreza Jamalifard, Yaxiong Lei, Parasto Azizinezhad, Javier Fumanal-Idocin, Javier Andreu-Perez
+- [Thinking with Tables: Enhancing Multi-Modal Tabular Understanding via Neuro-Symbolic Reasoning](https://arxiv.org/abs/2603.24004v1)  
+  Kun-Yang Yu, Zhi Zhou, Shi-Yu Tian, Xiao-Wen Yang, Zi-Yi Jia, Ming Yang, Zi-Jian Cheng, Lan-Zhe Guo, Yu-Feng Li
+- [BRIDG-Q: Barren-Plateau-Resilient Initialisation with Data-Aware LLM-Generated Quantum Circuits](https://arxiv.org/abs/2603.23979v1)  
+  Ngoc Nhi Nguyen, Thai T Vu, John Le, Hoa Khanh Dam, Dung Hoang Duong, Dinh Thai Hoang
+- [DUPLEX: Agentic Dual-System Planning via LLM-Driven Information Extraction](https://arxiv.org/abs/2603.23909v1)  
+  Keru Hua, Ding Wang, Yaoying Gu, Xiaoguang Ma
+- [Can VLMs Reason Robustly? A Neuro-Symbolic Investigation](https://arxiv.org/abs/2603.23867v1)  
+  Weixin Chen, Antonio Vergari, Han Zhao
+
 ### 2026-03-24
 
 - [Reliable Classroom AI via Neuro-Symbolic Multimodal Reasoning](https://arxiv.org/abs/2603.22793v1)  
