@@ -1,5 +1,39 @@
 # Preprints (arXiv)
 
+### 2026-03-30
+
+- [T-Norm Operators for EU AI Act Compliance Classification: An Empirical Comparison of Lukasiewicz, Product, and Gödel Semantics in a Neuro-Symbolic Reasoning System](https://arxiv.org/abs/2603.28558v1)  
+  Adam Laabs
+- [DAInfer+: Neurosymbolic Inference of API Specifications from Documentation via Embedding Models](https://arxiv.org/abs/2603.28060v1)  
+  Maryam Masoudian, Anshunkang Zhou, Chengpeng Wang, Charles Zhang
+
+### 2026-03-28
+
+- [Finding Memory Leaks in C/C++ Programs via Neuro-Symbolic Augmented Static Analysis](https://arxiv.org/abs/2603.27224v1)  
+  Huihui Huang, Jieke Shi, Bo Wang, Zhou Yang, David Lo
+- ["Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts](https://arxiv.org/abs/2603.27204v1)  
+  Shenao Wang, Junjie He, Yanjie Zhao, Yayi Wang, Kan Yu, Haoyu Wang
+- [AutoMS: Multi-Agent Evolutionary Search for Cross-Physics Inverse Microstructure Design](https://arxiv.org/abs/2603.27195v1)  
+  Zhenyuan Zhao, Yu Xing, Tianyang Xue, Lingxin Cao, Xin Yan, Lin Lu
+- [Bayesian-Symbolic Integration for Uncertainty-Aware Parking Prediction](https://arxiv.org/abs/2603.27119v1)  
+  Alireza Nezhadettehad, Arkady Zaslavsky, Abdur Rakib, Seng W. Loke
+
+### 2026-03-27
+
+- [Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach](https://arxiv.org/abs/2603.26948v1)  
+  Fabrizio De Santis, Gyunam Park, Wil M. P. van der Aalst
+- [Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning](https://arxiv.org/abs/2603.26944v1)  
+  Fabrizio De Santis, Gyunam Park, Francesco Zanichelli
+- [EcoFair: Trustworthy and Energy-Aware Routing for Privacy-Preserving Vertically Partitioned Medical Inference](https://arxiv.org/abs/2603.26483v1)  
+  Mostafa Anoosha, Dhavalkumar Thakker, Kuniko Paxton, Koorosh Aslansefat, Bhupesh Kumar Mishra, Baseer Ahmad, Rameez Raja Kureshi
+- [Neuro-Symbolic Process Anomaly Detection](https://arxiv.org/abs/2603.26461v1)  
+  Devashish Gaikwad, Wil M. P. van der Aalst, Gyunam Park
+
+### 2026-03-26
+
+- [Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories](https://arxiv.org/abs/2603.25903v1)  
+  Yiyuan Pan, Xusheng Luo, Hanjiang Hu, Peiqi Yu, Changliu Liu
+
 ### 2026-03-25
 
 - [A Neuro-Symbolic System for Interpretable Multimodal Physiological Signals Integration in Human Fatigue Detection](https://arxiv.org/abs/2603.24358v1)  
