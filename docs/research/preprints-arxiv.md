@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-03-31
+
+- [CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing](https://arxiv.org/abs/2603.29755v1)  
+  Chathurangi Shyalika, Utkarshani Jaimini, Cory Henson, Amit Sheth
+
 ### 2026-03-30
 
 - [T-Norm Operators for EU AI Act Compliance Classification: An Empirical Comparison of Lukasiewicz, Product, and Gödel Semantics in a Neuro-Symbolic Reasoning System](https://arxiv.org/abs/2603.28558v1)  
