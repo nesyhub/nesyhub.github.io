@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-04-02
+
+- [When to ASK: Uncertainty-Gated Language Assistance for Reinforcement Learning](https://arxiv.org/abs/2604.02226v1)  
+  Juarez Monteiro, Nathan Gavenski, Gianlucca Zuin, Adriano Veloso
+- [Reliable News or Propagandist News? A Neurosymbolic Model Using Genre, Topic, and Persuasion Techniques to Improve Robustness in Classification](https://arxiv.org/abs/2604.01936v1)  
+  Géraud Faye, Benjamin Icard, Morgane Casanova, Guillaume Gadek, Guillaume Gravier, Wassila Ouerdane, Céline Hudelot, Sylvain Gatepaille, Paul Égré
+- [Hidden Meanings in Plain Sight: RebusBench for Evaluating Cognitive Visual Reasoning](https://arxiv.org/abs/2604.01764v1)  
+  Seyed Amir Kasaei, Arash Marioriyad, Mahbod Khaleti, MohammadAmin Fazli, Mahdieh Soleymani Baghshah, Mohammad Hossein Rohban
+
 ### 2026-04-01
 
 - [Beyond Symbolic Solving: Multi Chain-of-Thought Voting for Geometric Reasoning in Large Language Models](https://arxiv.org/abs/2604.00890v1)  
