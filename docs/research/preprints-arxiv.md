@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-04-03
+
+- [Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision](https://arxiv.org/abs/2604.02812v1)  
+  Alessandro Adami, Tommaso Tubaldo, Marco Todescato, Ruggero Carli, Pietro Falco
+- [Aligning Progress and Feasibility: A Neuro-Symbolic Dual Memory Framework for Long-Horizon LLM Agents](https://arxiv.org/abs/2604.02734v1)  
+  Bin Wen, Ruoxuan Zhang, Yang Chen, Hongxia Xie, Lan-Zhe Guo
+
 ### 2026-04-02
 
 - [When to ASK: Uncertainty-Gated Language Assistance for Reinforcement Learning](https://arxiv.org/abs/2604.02226v1)  
