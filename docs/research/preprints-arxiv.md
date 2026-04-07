@@ -1,5 +1,15 @@
 # Preprints (arXiv)
 
+### 2026-04-05
+
+- [Position: Logical Soundness is not a Reliable Criterion for Neurosymbolic Fact-Checking with LLMs](https://arxiv.org/abs/2604.04177v1)  
+  Jason Chan, Robert Gaizauskas, Zhixue Zhao
+
+### 2026-04-04
+
+- [Build on Priors: Vision--Language--Guided Neuro-Symbolic Imitation Learning for Data-Efficient Real-World Robot Manipulation](https://arxiv.org/abs/2604.03759v1)  
+  Pierrick Lorang, Johannes Huemer, Timothy Duggan, Kai Goebel, Patrik Zips, Matthias Scheutz
+
 ### 2026-04-03
 
 - [Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision](https://arxiv.org/abs/2604.02812v1)  
