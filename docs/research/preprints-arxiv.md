@@ -1,5 +1,17 @@
 # Preprints (arXiv)
 
+### 2026-04-07
+
+- [From Large Language Model Predicates to Logic Tensor Networks: Neurosymbolic Offer Validation in Regulated Procurement](https://arxiv.org/abs/2604.05539v1)  
+  Cedric Haufe, Frieder Stolzenburg
+- [Pre-Execution Safety Gate & Task Safety Contracts for LLM-Controlled Robot Systems](https://arxiv.org/abs/2604.05427v1)  
+  Ike Obi, Vishnunandan L. N. Venkatesh, Weizheng Wang, Ruiqi Wang, Dayoon Suh, Temitope I. Amosa, Wonse Jo, Byung-Cheol Min
+
+### 2026-04-06
+
+- [Non-monotonic causal discovery with Kolmogorov-Arnold Fuzzy Cognitive Maps](https://arxiv.org/abs/2604.05136v1)  
+  Jose L. Salmeron
+
 ### 2026-04-05
 
 - [Position: Logical Soundness is not a Reliable Criterion for Neurosymbolic Fact-Checking with LLMs](https://arxiv.org/abs/2604.04177v1)  
