@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-04-09
+
+- [IoT-Brain: Grounding LLMs for Semantic-Spatial Sensor Scheduling](https://arxiv.org/abs/2604.08033v1)  
+  Zhaomeng Zhou, Lan Zhang, Junyang Wang, Mu Yuan, Junda Lin, Jinke Song
+
 ### 2026-04-08
 
 - [ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)  
