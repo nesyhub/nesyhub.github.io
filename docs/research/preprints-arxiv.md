@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-04-10
+
+- [Hierarchical Alignment: Enforcing Hierarchical Instruction-Following in LLMs through Logical Consistency](https://arxiv.org/abs/2604.09075v1)  
+  Shu Yang, Zihao Zhou, Di Wang, Wenda Li
+
 ### 2026-04-09
 
 - [IoT-Brain: Grounding LLMs for Semantic-Spatial Sensor Scheduling](https://arxiv.org/abs/2604.08033v1)  
