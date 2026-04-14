@@ -1,5 +1,17 @@
 # Preprints (arXiv)
 
+### 2026-04-12
+
+- [NSFL: A Post-Training Neuro-Symbolic Fuzzy Logic Framework for Boolean Operators in Neural Embeddings](https://arxiv.org/abs/2604.10604v1)  
+  Vladi Vexler, Ofer Idan, Gil Lederman, Dima Sivov
+
+### 2026-04-11
+
+- [VeriTrans: Fine-Tuned LLM-Assisted NL-to-PL Translation via a Deterministic Neuro-Symbolic Pipeline](https://arxiv.org/abs/2604.10341v1)  
+  Xuan Liu, Dheeraj Kodakandla, Kushagra Srivastva, Mahfuza Farooque
+- [CircuitSynth: Reliable Synthetic Data Generation](https://arxiv.org/abs/2604.10114v1)  
+  Zehua Cheng, Wei Dai, Jiahao Sun, Thomas Lukasiewicz
+
 ### 2026-04-10
 
 - [Hierarchical Alignment: Enforcing Hierarchical Instruction-Following in LLMs through Logical Consistency](https://arxiv.org/abs/2604.09075v1)  
