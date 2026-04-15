@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-04-14
+
+- [COBALT-TLA: A Neuro-Symbolic Verification Loop for Cross-Chain Bridge Vulnerability Discovery](https://arxiv.org/abs/2604.12172v1)  
+  Dominik Blain
+
 ### 2026-04-12
 
 - [NSFL: A Post-Training Neuro-Symbolic Fuzzy Logic Framework for Boolean Operators in Neural Embeddings](https://arxiv.org/abs/2604.10604v1)  
