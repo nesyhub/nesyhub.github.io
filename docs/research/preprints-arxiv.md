@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-04-15
+
+- [Hardware-Efficient Neuro-Symbolic Networks with the Exp-Minus-Log Operator](https://arxiv.org/abs/2604.13871v1)  
+  Eymen Ipek
+
 ### 2026-04-14
 
 - [COBALT-TLA: A Neuro-Symbolic Verification Loop for Cross-Chain Bridge Vulnerability Discovery](https://arxiv.org/abs/2604.12172v1)  
