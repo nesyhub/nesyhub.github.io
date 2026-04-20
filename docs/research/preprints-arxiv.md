@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-04-17
+
+- [Neuro-Symbolic ODE Discovery with Latent Grammar Flow](https://arxiv.org/abs/2604.16232v1)  
+  Karin Yu, Eleni Chatzi, Georgios Kissas
+- [Neurosymbolic Repo-level Code Localization](https://arxiv.org/abs/2604.16021v1)  
+  Xiufeng Xu, Xiufeng Wu, Zejun Zhang, Yi Li
+- [Overmind NSA: A Unified Neuro-Symbolic Computing Architecture with Approximate Nonlinear Activations and Preemptive Memory Bypass](https://arxiv.org/abs/2604.15623v1)  
+  Weilun Wang, Zirui Wang, Wantong Li
+
 ### 2026-04-15
 
 - [Hardware-Efficient Neuro-Symbolic Networks with the Exp-Minus-Log Operator](https://arxiv.org/abs/2604.13871v1)  
