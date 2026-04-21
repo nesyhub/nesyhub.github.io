@@ -1,5 +1,30 @@
 # Preprints (arXiv)
 
+### 2026-04-20
+
+- [FregeLogic at SemEval 2026 Task 11: A Hybrid Neuro-Symbolic Architecture for Content-Robust Syllogistic Validity Prediction](https://arxiv.org/abs/2604.18328v1)  
+  Adewale Akinfaderin, Nafi Diallo
+- [Understanding Human Actions through the Lens of Executable Models](https://arxiv.org/abs/2604.18064v1)  
+  Rimvydas Rubavicius, Manisha Dubey, N. Siddharth, Subramanian Ramamoorthy
+- [The Topological Dual of a Dataset: A Logic-to-Topology Encoding for AlphaGeometry-Style Data](https://arxiv.org/abs/2604.18050v1)  
+  Anthony Bordg
+- [PDDL-Mind: Large Language Models are Capable on Belief Reasoning with Reliable State Tracking](https://arxiv.org/abs/2604.17819v1)  
+  Wang Bill Zhu, Qiutong Tony Yi, Robin Jia, Jesse Thomason
+
+### 2026-04-19
+
+- [Neuro-Symbolic Resolution of Recommendation Conflicts in Multimorbidity Clinical Guidelines](https://arxiv.org/abs/2604.17340v1)  
+  Shiyao Xie, Jian Du
+- [SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair](https://arxiv.org/abs/2604.17184v1)  
+  Yifan Zhang, Jieyu Li, Kexin Pei, Yu Huang, Kevin Leach
+
+### 2026-04-18
+
+- [Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents](https://arxiv.org/abs/2604.17019v1)  
+  Sukai Huang, Chenyuan Zhang, Fucai Ke, Zhixi Cai, Gholamreza Haffari, Lizhen Qu, Hamid Rezatofighi
+- [GRAIL: Autonomous Concept Grounding for Neuro-Symbolic Reinforcement Learning](https://arxiv.org/abs/2604.16871v1)  
+  Hikaru Shindo, Henri Rößler, Quentin Delfosse, Kristian Kersting
+
 ### 2026-04-17
 
 - [Neuro-Symbolic ODE Discovery with Latent Grammar Flow](https://arxiv.org/abs/2604.16232v1)  
