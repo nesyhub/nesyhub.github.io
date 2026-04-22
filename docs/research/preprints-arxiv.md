@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-04-21
+
+- [LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues](https://arxiv.org/abs/2604.19464v1)  
+  Fanyu Wang, Xiaoxi Kang, Paul Burgess, Aashish Srivastava, Chetan Arora, Adnan Trakic, Lay-Ki Soon, Md Khalid Hossain, Lizhen Qu
+- [Decompose, Structure, and Repair: A Neuro-Symbolic Framework for Autoformalization via Operator Trees](https://arxiv.org/abs/2604.19000v1)  
+  Xiaoyang Liu, Zineng Dong, Yifan Bai, Yantao Li, Yuntian Liu, Tao Luo
+
 ### 2026-04-20
 
 - [FregeLogic at SemEval 2026 Task 11: A Hybrid Neuro-Symbolic Architecture for Content-Robust Syllogistic Validity Prediction](https://arxiv.org/abs/2604.18328v1)  
