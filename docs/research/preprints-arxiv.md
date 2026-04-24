@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-04-22
+
+- [Neuro-Symbolic Manipulation Understanding with Enriched Semantic Event Chains](https://arxiv.org/abs/2604.21053v1)  
+  Fatemeh Ziaeetabar
+
 ### 2026-04-21
 
 - [LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues](https://arxiv.org/abs/2604.19464v1)  
