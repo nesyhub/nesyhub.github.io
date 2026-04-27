@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-04-23
+
+- [Incentivizing Neuro-symbolic Language-based Reasoning in VLMs via Reinforcement Learning](https://arxiv.org/abs/2604.22062v1)  
+  Karthic Palaniappan
+
 ### 2026-04-22
 
 - [Neuro-Symbolic Manipulation Understanding with Enriched Semantic Event Chains](https://arxiv.org/abs/2604.21053v1)  
