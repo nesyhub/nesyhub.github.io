@@ -1,5 +1,24 @@
 # Preprints (arXiv)
 
+### 2026-04-27
+
+- [NeSyCat: A Monad-Based Categorical Semantics of the Neurosymbolic ULLER Framework](https://arxiv.org/abs/2604.24612v1)  
+  Daniel Romero Schellhorn, Till Mossakowski
+
+### 2026-04-26
+
+- [SMSI: System Model Security Inference: Automated Threat Modeling for Cyber-Physical Systems](https://arxiv.org/abs/2604.23905v1)  
+  RoÝah Radaideh, Ali Khreis
+- [CyberCane: Neuro-Symbolic RAG for Privacy-Preserving Phishing Detection with Formal Ontology Reasoning](https://arxiv.org/abs/2604.23563v1)  
+  Safayat Bin Hakim, Aniqa Afzal, Qi Zhao, Vigna Majmundar, Pawel Sloboda, Houbing Herbert Song
+
+### 2026-04-25
+
+- [IndustryAssetEQA: A Neurosymbolic Operational Intelligence System for Embodied Question Answering in Industrial Asset Maintenance](https://arxiv.org/abs/2604.23446v1)  
+  Chathurangi Shyalika, Dhaval Patel, Amit Sheth
+- [Constraint-Based Analysis of Reasoning Shortcuts in Neurosymbolic Learning](https://arxiv.org/abs/2604.23377v1)  
+  Akihiro Takemura, Katsumi Inoue, Masaaki Nishino
+
 ### 2026-04-23
 
 - [Incentivizing Neuro-symbolic Language-based Reasoning in VLMs via Reinforcement Learning](https://arxiv.org/abs/2604.22062v1)  
