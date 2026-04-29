@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-04-28
+
+- [Sample-efficient Neuro-symbolic Proximal Policy Optimization](https://arxiv.org/abs/2604.25534v1)  
+  Simone Murari, Celeste Veronese, Daniele Meli
+
 ### 2026-04-27
 
 - [NeSyCat: A Monad-Based Categorical Semantics of the Neurosymbolic ULLER Framework](https://arxiv.org/abs/2604.24612v1)  
