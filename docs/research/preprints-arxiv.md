@@ -1,5 +1,21 @@
 # Preprints (arXiv)
 
+### 2026-04-30
+
+- [Towards Neuro-symbolic Causal Rule Synthesis, Verification, and Evaluation Grounded in Legal and Safety Principles](https://arxiv.org/abs/2604.28087v1)  
+  Zainab Rehan, Christian Medeiros Adriano, Sona Ghahremani, Holger Giese
+- [LLMs as ASP Programmers: Self-Correction Enables Task-Agnostic Nonmonotonic Reasoning](https://arxiv.org/abs/2604.27960v1)  
+  Adam Ishay, Joohyung Lee
+
+### 2026-04-29
+
+- [LLM-Flax : Generalizable Robotic Task Planning via Neuro-Symbolic Approaches with Large Language Models](https://arxiv.org/abs/2604.26569v1)  
+  Seongmin Kim, Daegyu Lee
+- [AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents](https://arxiv.org/abs/2604.26522v1)  
+  Mahnoor Shahid, Hannes Rothe
+- [Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems](https://arxiv.org/abs/2604.26521v1)  
+  Mahnoor Shahid, Hannes Rothe
+
 ### 2026-04-28
 
 - [Sample-efficient Neuro-symbolic Proximal Policy Optimization](https://arxiv.org/abs/2604.25534v1)  
