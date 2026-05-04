@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-05-01
+
+- [VQ-SAD: Vector Quantized Structure Aware Diffusion For Molecule Generation](https://arxiv.org/abs/2605.00354v1)  
+  Farshad Noravesh, Reza Haffari, Layki Soon, Arghya Pal
+
 ### 2026-04-30
 
 - [Towards Neuro-symbolic Causal Rule Synthesis, Verification, and Evaluation Grounded in Legal and Safety Principles](https://arxiv.org/abs/2604.28087v1)  
