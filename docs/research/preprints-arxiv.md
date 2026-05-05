@@ -1,5 +1,30 @@
 # Preprints (arXiv)
 
+### 2026-05-04
+
+- [Compositional Neural-Cyber-Physical System Verification in the Interactive Theorem Prover of Your Choice](https://arxiv.org/abs/2605.02790v1)  
+  Matthew L. Daggit, Alistair Sirman, Alessandro Bruni, Samuel Teuber, Ekaterina Komendantskaya, Josh Smart, Grant Passmore
+- [CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](https://arxiv.org/abs/2605.02600v1)  
+  Berk Çiçek, Mert K. Er, Özgür S. Öğüz
+- [Accurate Legal Reasoning at Scale: Neuro-Symbolic Offloading and Structural Auditability for Robust Legal Adjudication](https://arxiv.org/abs/2605.02472v1)  
+  Stanisław Sójka, Witold Kowalczyk
+
+### 2026-05-03
+
+- [Neural Decision-Propagation for Answer Set Programming](https://arxiv.org/abs/2605.01797v1)  
+  Thomas Eiter, Katsumi Inoue, Sota Moriyama
+
+### 2026-05-02
+
+- [Neuro-Symbolic Agents for Hallucination-Free Requirements Reuse](https://arxiv.org/abs/2605.01562v1)  
+  Ahmed Ibrahim
+- [Measuring Understanding Through Discrete Compositional Knowledge Structures in Hierarchical Automata](https://arxiv.org/abs/2605.01430v1)  
+  Igor Balaz
+- [Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2605.01293v1)  
+  Jie-Jing Shao, Haiyan Yin, Yueming Lyu, Xingrui Yu, Lan-Zhe Guo, Ivor Tsang, James Kwok, Yu-Feng Li
+- [NEURON: A Neuro-symbolic System for Grounded Clinical Explainability](https://arxiv.org/abs/2605.01189v1)  
+  Anuradha Chandrasekaran, Dimitrios Zikos, Mutlu Mete, Alan Pang, Brady D. Lund, Kewei Sha
+
 ### 2026-05-01
 
 - [VQ-SAD: Vector Quantized Structure Aware Diffusion For Molecule Generation](https://arxiv.org/abs/2605.00354v1)  
