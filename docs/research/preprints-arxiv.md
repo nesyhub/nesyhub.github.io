@@ -1,5 +1,25 @@
 # Preprints (arXiv)
 
+### 2026-05-06
+
+- [UFAL-CUNI at SemEval-2026 Task 11: An Efficient Modular Neuro-symbolic Method for Syllogistic Reasoning](https://arxiv.org/abs/2605.04941v1)  
+  Ivan Kartáč, Kristýna Onderková, Jan Bronec, Zdeněk Kasner, Mateusz Lango, Ondřej Dušek
+- [Gyan: An Explainable Neuro-Symbolic Language Model](https://arxiv.org/abs/2605.04759v1)  
+  Venkat Srinivasan, Vishaal Jatav, Anushka Chandrababu, Geetika Sharma
+- [A Hybrid Method for Low-Resource Named Entity Recognition](https://arxiv.org/abs/2605.04489v1)  
+  Do Minh Duc, Quan Xuan Truong, Viet Tran Hong, Le Hoang Anh, Mac Thi Minh Tra, Nguyen Van Thuy, Le Hai Ha, Vinh Nguyen Van
+- [Information Coordination as a Bridge: A Neuro-Symbolic Architecture for Reliable Autonomous Driving Scene Understanding](https://arxiv.org/abs/2605.04475v1)  
+  Shuo Liu, Lei Shi, Haowen Liu, Jing Xu, Yufei Gao, Yucheng Shi
+- [Automated Formal Proofs of Combinatorial Identities via Wilf-Zeilberger Guidance and LLMs](https://arxiv.org/abs/2605.04472v1)  
+  Beibei Xiong, Hangyu Lv, Junqi Liu, Yisen Wang, Shaoshi Chen, Jianlin Wang, Zhengfeng Yang, Lihong Zhi
+
+### 2026-05-05
+
+- [Temporal Reasoning Is Not the Bottleneck: A Probabilistic Inconsistency Framework for Neuro-Symbolic QA](https://arxiv.org/abs/2605.04243v1)  
+  Tran Quang Liem
+- [ANDRE: An Attention-based Neuro-symbolic Differentiable Rule Extractor](https://arxiv.org/abs/2605.04193v1)  
+  Iman Sharifi, Peng Wei, Saber Fallah
+
 ### 2026-05-04
 
 - [Compositional Neural-Cyber-Physical System Verification in the Interactive Theorem Prover of Your Choice](https://arxiv.org/abs/2605.02790v1)  
