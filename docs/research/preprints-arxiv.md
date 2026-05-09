@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-05-07
+
+- [Reward Shaping and Action Masking for Compositional Tasks using Behavior Trees and LLMs](https://arxiv.org/abs/2605.05795v1)  
+  Nicholas Potteiger, Ankita Samaddar, Taylor T. Johnson, Xenofon Koutsoukos
+
 ### 2026-05-06
 
 - [UFAL-CUNI at SemEval-2026 Task 11: An Efficient Modular Neuro-symbolic Method for Syllogistic Reasoning](https://arxiv.org/abs/2605.04941v1)  
