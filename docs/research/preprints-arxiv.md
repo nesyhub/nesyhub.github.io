@@ -1,5 +1,22 @@
 # Preprints (arXiv)
 
+### 2026-05-08
+
+- [Abductive Reasoning with Probabilistic Commonsense](https://arxiv.org/abs/2605.08011v1)  
+  Joseph Cotnareanu, Chiara Roverato, Han Zhou, Didier Chetelat, Yingxue Zhang, Mark Coates
+- [Melding LLM and temporal logic for reliable human-swarm collaboration in complex scenarios](https://arxiv.org/abs/2605.07877v1)  
+  Junfeng Chen, Yuxiao Zhu, An Zhuo, Xintong Zhang, Shuo Zhang, Guanghui Wen, Xiwang Dong, Meng Guo, Zhongkui Li
+- [Securing the Dark Matter: A Semantic-Enhanced Neuro-Symbolic Framework for Supply Chain Analysis of Opaque Industrial Software](https://arxiv.org/abs/2605.07737v1)  
+  Bowei Ning, Xuejun Zong, Lian Lian, Kan He, Yifei Sun, Yuxiang Lei, Plamen Vasilev
+- [Tacit Knowledge Extraction via Logic Augmented Generation and Active Inference](https://arxiv.org/abs/2605.07639v1)  
+  Lorenzo Lamazzi, Aldo Gangemi, Alessio Giberti, Andrea Giovanni Nuzzolese, Vittorio Andrea Rocca, Mattia Torta, Francesco Poggi
+- [Neurosymbolic Imitation Learning with Human Guidance: A Privileged Information Approach](https://arxiv.org/abs/2605.07166v1)  
+  Nikhilesh Prabhakar, Varun Balaji, Athresh Karanam, Kristian Kersting, Sriraam Natarajan
+- [Neurosymbolic Framework for Concept-Driven Logical Reasoning in Skeleton-Based Human Action Recognition](https://arxiv.org/abs/2605.07140v1)  
+  Talha Ilyas, Deval Mehta, Zongyuan Ge
+- [2.5-D Decomposition for LLM-Based Spatial Construction](https://arxiv.org/abs/2605.07066v1)  
+  Paul Whitten, Li-Jen Chen, Sharath Baddam
+
 ### 2026-05-07
 
 - [Reward Shaping and Action Masking for Compositional Tasks using Behavior Trees and LLMs](https://arxiv.org/abs/2605.05795v1)  
