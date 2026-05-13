@@ -1,5 +1,36 @@
 # Preprints (arXiv)
 
+### 2026-05-12
+
+- [Formalize, Don't Optimize: The Heuristic Trap in LLM-Generated Combinatorial Solvers](https://arxiv.org/abs/2605.12421v1)  
+  Haoyu Wang, Yuliang Song, Tao Li, Zhiwei Deng, Yaqing Wang, Deepak Ramachandran, Eldan Cohen, Dan Roth
+- [Agents Should Replace Narrow Predictive AI as the Orchestrator in 6G AI-RAN](https://arxiv.org/abs/2605.11516v1)  
+  Pranshav Gajjar, Vijay K Shah
+- [NeuroFlake: A Neuro-Symbolic LLM Framework for Flaky Test Classification](https://arxiv.org/abs/2605.11482v1)  
+  Khondaker Tasnia Hoque, Toukir Ahammed
+
+### 2026-05-11
+
+- [Demystifying Deep Reinforcement Learning: A Neuro-Symbolic Framework for Interpretable Open RAN Automation](https://arxiv.org/abs/2605.10648v2)  
+  Jie Lu, Peihao Yan, Pang-Ning Tan, Y. Thomas Hou, Huacheng Zeng
+- [Deep Arguing](https://arxiv.org/abs/2605.10569v1)  
+  Adam Gould, Francesca Toni
+- [Correct-by-Construction G-Code Generation: A Neuro-Symbolic Approach via Separation Logic](https://arxiv.org/abs/2605.10568v2)  
+  Yeonseok Lee
+- [GuardAD: Safeguarding Autonomous Driving MLLMs via Markovian Safety Logic](https://arxiv.org/abs/2605.10386v1)  
+  Tianyuan Zhang, Peng Yue, Zihao Peng, Jiangfan Liu, Zonghao Ying, Jiakai Wang, Tianlin Li, Jian Yang, Yaodong Yang, Aishan Liu, Xianglong Liu
+- [SCALAR: A Neurosymbolic Framework for Automated Conjecture and Reasoning in Quantum Circuit Analysis](https://arxiv.org/abs/2605.10327v1)  
+  Sean Feeney, Pooja Rao, Andreas Klappenecker, Reuben Tate, Yuri Alexeev, Stefano Mensa, Elica Kyoseva, Stephan Eidenbenz
+- [DeepLog: A Software Framework for Modular Neurosymbolic AI](https://arxiv.org/abs/2605.10279v1)  
+  Robin Manhaeve, Stefano Colamonaco, Vincent Derkinderen, Rik Adriaensen, Lucas Van Praet, Luc De Raedt, Giuseppe Marra
+
+### 2026-05-10
+
+- [LLM-Guided Monte Carlo Tree Search over Knowledge Graphs: Composing Mechanistic Explanations for Drug-Disease Pairs](https://arxiv.org/abs/2605.09542v1)  
+  Rishabh Jakhar, Michel Dumontier, Remzi Celebi
+- [From Passive Reuse to Active Reasoning: Grounding Large Language Models for Neuro-Symbolic Experience Replay](https://arxiv.org/abs/2605.09419v1)  
+  Yanan Xiao, Yixiang Tang, Zechen Feng, Lu Jiang, Minghao Yin, Pengyang Wang
+
 ### 2026-05-08
 
 - [Abductive Reasoning with Probabilistic Commonsense](https://arxiv.org/abs/2605.08011v1)  
