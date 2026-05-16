@@ -1,5 +1,25 @@
 # Preprints (arXiv)
 
+### 2026-05-14
+
+- [Natural Synthesis: Outperforming Reactive Synthesis Tools with Large Reasoning Models](https://arxiv.org/abs/2605.15131v1)  
+  Frederik Schmitt, Matthias Cosler, Niklas Metzger, Julian Siber, Vladimir Krsmanovic, Mohamed Ghanem, Bernd Finkbeiner
+
+### 2026-05-13
+
+- [ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows](https://arxiv.org/abs/2605.14113v1)  
+  Alvaro Lopez Pellicer, Plamen Angelov, Marwan Bukhari, Yi Li, Eduardo Soares, Jemma Kerns
+- [Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning](https://arxiv.org/abs/2605.14049v1)  
+  Olivia Peiyu Wang, Leilani H. Gilpin
+- [Quantitative Linear Logic for Neuro-Symbolic Learning and Verification](https://arxiv.org/abs/2605.13845v2)  
+  Thomas Flinkow, Ekaterina Komendantskaya, Matteo Capucci, Rosemary Monahan
+- [Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)  
+  Bethel Hall, William Eiers
+- [Weakly Supervised Segmentation as Semantic-Based Regularization](https://arxiv.org/abs/2605.13674v1)  
+  Stefano Colamonaco, Andrei-Bogdan Florea, Jaron Maene
+- [Differentiable Learning of Lifted Action Schemas for Classical Planning](https://arxiv.org/abs/2605.13282v1)  
+  Jonas Reiter, Jakob Elias Gebler, Hector Geffner
+
 ### 2026-05-12
 
 - [Formalize, Don't Optimize: The Heuristic Trap in LLM-Generated Combinatorial Solvers](https://arxiv.org/abs/2605.12421v1)  
