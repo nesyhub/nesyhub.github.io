@@ -1,5 +1,35 @@
 # Preprints (arXiv)
 
+### 2026-05-18
+
+- [REBAR: Reference Ethical Benchmark for Autonomy Readiness](https://arxiv.org/abs/2605.18423v1)  
+  Jonathan Diller, David Barnes, Rebekah Bogdanoff, Rhett Collier, Roddy Collins, Keith Fieldhouse, Yonatan Gefen, Cameron Johnson, Anuriha Kodali, Brad Kriel, Varun Murali, James Niehaus, Mish Sukharev, Joseph VanPelt, Anthony Hoogs, Vijay Kumar, Arslan Basharat
+- [Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models](https://arxiv.org/abs/2605.18202v1)  
+  Samuele Bortolotti, Emanuele Marconato, Andrea Pugnana, Andrea Passerini, Stefano Teso
+- [FOL2NS: Generating Natural Sentences from First-Order Logic](https://arxiv.org/abs/2605.18155v1)  
+  Mei Jia
+
+### 2026-05-17
+
+- [NeuSymMS: A Hybrid Neuro-Symbolic Memory System for Persistent, Self-Curating LLM Agents](https://arxiv.org/abs/2605.17596v1)  
+  Mujahid Sultan, Sri Thuraisamy, Daya Rajaratnam
+
+### 2026-05-16
+
+- [Constrained Code Generation with Discrete Diffusion](https://arxiv.org/abs/2605.16829v1)  
+  Lize Shao, Michael Cardei, Zichen Xie, Ferdinando Fioretto, Wenxi Wang
+
+### 2026-05-15
+
+- [Learning How to Cube](https://arxiv.org/abs/2605.16632v1)  
+  Ferhat Erata, Sam Kouteili, Thanos Typaldos, Timos Antonopoulos, Robert B. Jones, Byron Cook, Ruzica Piskac
+- [SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation](https://arxiv.org/abs/2605.16530v1)  
+  Ssharvien Kumar Sivakumar, Akwele Johnson, Anirudh Dhingra, Yannik Frisch, Ghazal Ghazaei, Anirban Mukhopadhyay
+- [An Algebraic Exposition of the Theory of Dyadic Morality](https://arxiv.org/abs/2605.16153v1)  
+  Kush R. Varshney
+- [Reasoners or Translators? Contamination-aware Evaluation and Neuro-Symbolic Robustness in Tax Law](https://arxiv.org/abs/2605.16052v1)  
+  Parisa Kordjamshidi, Samer Aslan, Madhavan Seshadri, Leslie Barrett, Enrico Santus
+
 ### 2026-05-14
 
 - [Natural Synthesis: Outperforming Reactive Synthesis Tools with Large Reasoning Models](https://arxiv.org/abs/2605.15131v1)  
