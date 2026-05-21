@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-05-19
+
+- [k-Inductive Neural Barrier Certificates for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2605.20108v1)  
+  Ben Wooding, Hongchao Zhang, Taylor T. Johnson, Abolfazl Lavaei
+- [Neurosymbolic Learning for Inference-Time Argumentation](https://arxiv.org/abs/2605.20098v1)  
+  Gabriel Freedman, Adam Dejl, Adam Gould, Mansi, Lihu Chen, Jianqi Jiang, Francesca Toni
+
 ### 2026-05-18
 
 - [REBAR: Reference Ethical Benchmark for Autonomy Readiness](https://arxiv.org/abs/2605.18423v1)  
