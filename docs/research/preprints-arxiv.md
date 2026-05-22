@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-05-21
+
+- [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](https://arxiv.org/abs/2605.22142v1)  
+  Taewoon Kim, Vincent François-Lavet, Michael Cochez
+- [Knowledge Graph Re-engineering Along the Ontological Continuum (extended version)](https://arxiv.org/abs/2605.22093v1)  
+  Enrico Daga, Valentina Tamma, Terry Payne
+- [Seizure-Semiology-Suite (S3): A Clinically Multimodal Dataset, Benchmark, and Models for Seizure Semiology Understanding](https://arxiv.org/abs/2605.21852v1)  
+  Lina Zhang, Tonmoy Monsoor, Peizheng Li, Jiarui Cui, Xinyi Peng, Chong Han, Prateik Sinha, Siyuan Dai, Jessica Nichole Pasqua, Colin M McCrimmon, Weiting Liu, Hailey Marie Miranda, Bing Hu, Xiangting Wu, Tengyou Xu, Chunhan Li, Jiaye Tian, Jiarui Tang, Detao Ma, Lingye Kong, Junnan Lyu, Jungang Li, Yan Zan, Junhua Huang, Rajarshi Mazumder, Vwani Roychowdhury
+
 ### 2026-05-19
 
 - [k-Inductive Neural Barrier Certificates for Unknown Nonlinear Dynamics](https://arxiv.org/abs/2605.20108v1)  
