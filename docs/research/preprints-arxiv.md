@@ -1,5 +1,19 @@
 # Preprints (arXiv)
 
+### 2026-05-25
+
+- [Symbolic-Neural Soft-Logic Reasoning: Towards Robust and Verifiable Thinking Chains via Cooperative Evolution](https://arxiv.org/abs/2605.25618v1)  
+  Rui Wang, Zeming Wei, Yihao Zhang, Xiaokun Luan
+- [Uncertainty Reasoning with Large Language Models for Explainable Disease Diagnosis](https://arxiv.org/abs/2605.25566v1)  
+  Xiaoyang Fan, Yufan Cai, Zhe Hou, Jin Song Dong
+
+### 2026-05-23
+
+- [World-State Transformations for Neuro-symbolic Interactive Storytelling](https://arxiv.org/abs/2605.24719v1)  
+  Santiago Góngora, Luis Chiruzzo, Gonzalo Méndez, Pablo Gervás
+- [Synthesizing Inductive Invariants for Distributed Protocols via IC3 and Large Language Models](https://arxiv.org/abs/2605.24619v1)  
+  Weining Cao, Guangyuan Wu, Yuan Yao, Hengfeng Wei, Taolue Chen, Xiaoxing Ma
+
 ### 2026-05-21
 
 - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](https://arxiv.org/abs/2605.22142v1)  
