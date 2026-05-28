@@ -1,5 +1,21 @@
 # Preprints (arXiv)
 
+### 2026-05-27
+
+- [BIRDNet: Mining and Encoding Boolean Implication Knowledge Graphs as Interpretable Deep Neural Networks](https://arxiv.org/abs/2605.28739v1)  
+  Tirtharaj Dash
+- [SYNAPSE: Neuro-Symbolic Visual Thought-to-Text Decoding via Topological Semantic Denoising](https://arxiv.org/abs/2605.27790v1)  
+  Akshaj Murhekar, Abhijit Mishra
+
+### 2026-05-26
+
+- [ReasonOps: A Unified Operational Paradigm for Trustworthy Verified LLM Reasoning](https://arxiv.org/abs/2605.27014v1)  
+  Adnan Rashid
+- [Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains (extended preprint)](https://arxiv.org/abs/2605.26942v1)  
+  Paul Sigloch, Christoph Benzmüller
+- [RAGEAR: Retrieval-Augmented Graph-Enhanced Academic Recommender](https://arxiv.org/abs/2605.26819v1)  
+  Francesco Granata, Lorenzo Lamazzi, Misael Mongiovì, Francesco Poggi, Valeria Secchini
+
 ### 2026-05-25
 
 - [Symbolic-Neural Soft-Logic Reasoning: Towards Robust and Verifiable Thinking Chains via Cooperative Evolution](https://arxiv.org/abs/2605.25618v1)  
