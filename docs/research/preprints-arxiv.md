@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-05-28
+
+- [HunterAgent: Neuro-Symbolic Attack Trace Reconstruction under Anti-Forensics](https://arxiv.org/abs/2605.29269v1)  
+  Guangze Zhao, Yongzheng Zhang, Weilin Gai, Hongri Liu, Yuliang Wei, Bailing Wang
+
 ### 2026-05-27
 
 - [BIRDNet: Mining and Encoding Boolean Implication Knowledge Graphs as Interpretable Deep Neural Networks](https://arxiv.org/abs/2605.28739v1)  
