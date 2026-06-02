@@ -1,5 +1,28 @@
 # Preprints (arXiv)
 
+### 2026-05-31
+
+- [Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](https://arxiv.org/abs/2606.01215v1)  
+  Wentao Mo, Yang Liu
+
+### 2026-05-30
+
+- [AXIOM: A Trust-First Neuro-Symbolic Execution Architecture for Verifiable Mathematical Reasoning](https://arxiv.org/abs/2606.00671v1)  
+  Alessio Bruno
+- [NeuroLog: Reasoning You Can Audit -- Neuro-Symbolic Vulnerability Discovery via LLM Facts, Datalog, and SMT](https://arxiv.org/abs/2606.00669v1)  
+  Sanjay Rawat
+- [Efficient Test-time Inference for Generative Planning Models](https://arxiv.org/abs/2606.00618v1)  
+  Robert Gieselmann, Mihai Samson, Federico Pecora, Jeremy L. Wyatt
+
+### 2026-05-29
+
+- [Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](https://arxiv.org/abs/2606.00248v1)  
+  Karim Habashy, Chris Eliasmith
+- [Neuro-symbolic Syntactic Parsing: Shaping a Neural Network with the CYK Algorithm](https://arxiv.org/abs/2605.31421v1)  
+  Fabio Massimo Zanzotto, Federico Ranaldi, Giorgio Satta
+- [Learning Parametric Nitrogen Fertilizer Response Curves Using Neuro Symbolic Regression](https://arxiv.org/abs/2605.31276v1)  
+  Giorgio Morales, John Sheppard
+
 ### 2026-05-28
 
 - [HunterAgent: Neuro-Symbolic Attack Trace Reconstruction under Anti-Forensics](https://arxiv.org/abs/2605.29269v1)  
