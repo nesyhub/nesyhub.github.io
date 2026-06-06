@@ -1,5 +1,33 @@
 # Preprints (arXiv)
 
+### 2026-06-04
+
+- [When Should We Protect AI? A Precautionary Framework for Consciousness Uncertainty](https://arxiv.org/abs/2606.05528v1)  
+  Anna Mikeda
+
+### 2026-06-03
+
+- [BiNSGPS: Geometry Problem Solving via Bidirectional Neuro-Symbolic Interaction](https://arxiv.org/abs/2606.04648v1)  
+  Qi Wang, Peijie Wang, Fei Yin, Cheng-Lin Liu
+- [Simulate, Reason, Decide: Scientific Reasoning with LLMs for Simulation-Driven Decision Making](https://arxiv.org/abs/2606.04505v1)  
+  Yuhan Yang, Ruipu Li, Alexander Rodríguez
+
+### 2026-06-02
+
+- [NeuroSymbolic Robustness Analysis for Discrete Systems with Respect to Transition Deviations](https://arxiv.org/abs/2606.03872v1)  
+  Shih-Jie Shih, Jonghan Lim, Ilya Kovalenko, Rômulo Meira-Góes
+- [Making Embodied AI Reliable: A Community Agenda from Testing to Formal Verification](https://arxiv.org/abs/2606.03593v1)  
+  Xi Zheng, Dulanga Weerakoon, Yintong Huo, Teresa Yeo, Guy Van Den Broeck, Vijay Ganesh, Daniel Neider, Biplav Srivastava, Ivan Ruchkin, Archan Misra, Corina Pasareanu
+- [Distilling Answer-Set Programming Rules from LLMs for Neurosymbolic Visual Question Answering](https://arxiv.org/abs/2606.03269v1)  
+  Thomas Eiter, Nelson Higuera Ruiz, Johannes Oetsch
+- [From Explanation to Diagnosis: Next Generation Interactive Video Coach with Misstep Awareness](https://arxiv.org/abs/2606.02970v1)  
+  Xiao Jin, Rahul K. Dass, Ashok K. Goel
+
+### 2026-06-01
+
+- [Fixing FOLIO and MALLS: Verified Annotations and an LLM-assisted Framework to Focus Human Relabeling](https://arxiv.org/abs/2606.02837v1)  
+  Andrea Brunello, Cristian Curaba, Luca Geatti, Michele Mignani, Angelo Montanari, Nicola Saccomanno
+
 ### 2026-05-31
 
 - [Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](https://arxiv.org/abs/2606.01215v1)  
