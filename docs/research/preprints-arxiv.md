@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-06-05
+
+- [Neuro-Symbolic Learning for Long-Horizon Task Planning Under Complex Logical Constraints](https://arxiv.org/abs/2606.06877v1)  
+  Qiwei Du, Zitong Zhan, Shaoshu Su, Bowen Li, Yi Du, Zhipeng Zhao, Taimeng Fu, Sebastian Scherer, Jiaoyang Li, Chen Wang
+- [PandaAI: A Practical Agent CQ2 for Neuro-symbolic Data Analysis And Integrated Decision-Making in Quantitative Finance](https://arxiv.org/abs/2606.06823v1)  
+  Yuqi Li, Siyuan Liu, Bingjun Liu
+
 ### 2026-06-04
 
 - [When Should We Protect AI? A Precautionary Framework for Consciousness Uncertainty](https://arxiv.org/abs/2606.05528v1)  
