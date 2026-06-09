@@ -1,5 +1,24 @@
 # Preprints (arXiv)
 
+### 2026-06-08
+
+- [Symbolic and Abstractive Reasoning with Complex Visual Queries](https://arxiv.org/abs/2606.09195v1)  
+  Yichi Zhang, Jingdian Lu, Zhuo Chen, Lingbing Guo, Jun Xu, Wen Zhang, Huajun Chen
+
+### 2026-06-07
+
+- [Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery](https://arxiv.org/abs/2606.08728v1)  
+  Syed Rifat Raiyan, Mohsinul Kabir, Hasan Mahmud, Md Kamrul Hasan
+
+### 2026-06-06
+
+- [Neuro-Symbolic Injection of LTLf Constraints in Autoregressive Reinforcement Learning Policies](https://arxiv.org/abs/2606.08312v1)  
+  Ashkan Ansarifard, Matteo Mancanelli, Elena Umili, Fabio Patrizi
+- [Agentic Neuro-Symbolic Planning and Commissioning for Human-in-the-Loop Industrial Robotics with Digital Twins](https://arxiv.org/abs/2606.08214v1)  
+  Zhihao Liu, Victor Nan Fernandez-Ayala, Tianyu Wang, Qiang Qin, Xi Vincent Wang, Dimos V. Dimarogonas, Lihui Wang
+- [Trustworthy Visual Predicates for Robust Manipulation Understanding under Degradation](https://arxiv.org/abs/2606.08121v1)  
+  Fatemeh Ziaeetabar
+
 ### 2026-06-05
 
 - [Neuro-Symbolic Learning for Long-Horizon Task Planning Under Complex Logical Constraints](https://arxiv.org/abs/2606.06877v1)  
