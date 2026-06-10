@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-06-09
+
+- [A Neurosymbolic Prolog Skill for LLM-Driven Service Placement](https://arxiv.org/abs/2606.11113v1)  
+  Jacopo Massa, Giuseppe Bisicchia, Patrizio Dazzi, Antonio Brogi
+- [Bridging Semantics and Physical Execution: A Neuro-Symbolic Framework for Multi-Pair Robotic Assembly](https://arxiv.org/abs/2606.10808v1)  
+  Xinyi Li, Aiguo Song, Linhu Wei, Huijun Li
+- [Accelerating NeurASP with vectorization and caching](https://arxiv.org/abs/2606.10787v1)  
+  Alexander Philipp Rader, Alessandra Russo
+
 ### 2026-06-08
 
 - [Symbolic and Abstractive Reasoning with Complex Visual Queries](https://arxiv.org/abs/2606.09195v1)  
