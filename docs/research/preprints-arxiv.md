@@ -1,5 +1,16 @@
 # Preprints (arXiv)
 
+### 2026-06-11
+
+- [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405v1)  
+  Alexander Rombach, Chantale Lauer, Nijat Mehdiyev
+- [IVIE: A Neuro-symbolic Approach to Incremental and Validated Generation of Interactive Fiction Worlds](https://arxiv.org/abs/2606.13348v1)  
+  Micaela Vaucher, Santiago Silveira, Santiago Góngora, Luis Chiruzzo
+- [SciR: A Controllable Benchmark for Scientific Reasoning in LLMs](https://arxiv.org/abs/2606.13020v1)  
+  Pierre Beckmann, Marco Valentino, Andre Freitas
+- [Bounding Boxes as Goals: Language-Conditioned Grasping via Neuro-Symbolic Planning](https://arxiv.org/abs/2606.12910v1)  
+  Allison Andreyev, Landon Eum, Nestor Tiglao, Romel Gomez
+
 ### 2026-06-09
 
 - [A Neurosymbolic Prolog Skill for LLM-Driven Service Placement](https://arxiv.org/abs/2606.11113v1)  
