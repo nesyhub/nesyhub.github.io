@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-06-12
+
+- [EM-NeSy: Expectation Maximization for Neurosymbolic Learning](https://arxiv.org/abs/2606.14463v1)  
+  Annegret Seibt, Luc De Raedt, Giuseppe Marra
+
 ### 2026-06-11
 
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405v1)  
