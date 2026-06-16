@@ -1,5 +1,28 @@
 # Preprints (arXiv)
 
+### 2026-06-15
+
+- [Neuro-Symbolic Software Verification: Hyper-charging Local Language Models with Symbolic Reasoning at Scale](https://arxiv.org/abs/2606.16886v1)  
+  Muhammad A. A. Pirzada, Julian Parsert, Weiqi Wang, Konstantin Korovin, Lucas C. Cordeiro
+- [Robust Dual-Signal Fusion: Hybrid Neuro-Symbolic Gating with Compressed Chain-of-Thought Refinement for Irony Detection in Social Media Texts](https://arxiv.org/abs/2606.16845v1)  
+  Ankit Bhattacharjee, Krityapriya Bhaumik
+- [VeriGraph: Towards Verifiable Data-Analytic Agents](https://arxiv.org/abs/2606.16603v1)  
+  Jiajie Jin, Zhao Yang, Wenle Liao, Yuyang Hu, Guanting Dong, Xiaoxi Li, Yutao Zhu, Zhicheng Dou
+- [RHO: Your Coding Agent is Secretly a Roboticist](https://arxiv.org/abs/2606.16458v1)  
+  Karim Elmaaroufi, Justin Svegliato, Sarunas Kalade, Graham Schelle, Sanjit A. Seshia, Matei Zaharia
+
+### 2026-06-14
+
+- [NeRD: Neuro-Symbolic Rule Distillation for Efficient Ontology-Grounded Chain-of-Thought in Medical Image Diagnosis](https://arxiv.org/abs/2606.15617v1)  
+  Hongxi Yang, Yiwen Jiang, Siyuan Yan, Jamie Chow, Eunis Li, Charlotte Poon, Stephanie Fong, Xiangyu Zhao, Deval Mehta, Yasmeen George, Zongyuan Ge
+
+### 2026-06-13
+
+- [Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility](https://arxiv.org/abs/2606.15251v1)  
+  Simon Kohaut, Felix Divo, Julius Hahnewald, Benedict Flade, Julian Eggert, Kristian Kersting, Devendra Singh Dhami
+- [Semantic Reasoning in Medicine: The Role of Knowledge Graphs Across Five Key Domains](https://arxiv.org/abs/2606.15155v1)  
+  Haniye Sherafatmandjoo, Mohammad Akbari, Zahed Rahmati
+
 ### 2026-06-12
 
 - [EM-NeSy: Expectation Maximization for Neurosymbolic Learning](https://arxiv.org/abs/2606.14463v1)  
