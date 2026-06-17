@@ -1,5 +1,16 @@
 # Preprints (arXiv)
 
+### 2026-06-16
+
+- [Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents](https://arxiv.org/abs/2606.18223v1)  
+  Ankita Samaddar, Sandeep Neema, Daniel Balasubramanian, Xenofon Koutsoukos
+- [Agentic AI-based Framework for Mitigating Premature Diagnostic Handoff and Silent Hallucination in Healthcare Applications](https://arxiv.org/abs/2606.18068v1)  
+  Divyansh Srivastava, Shreya Ghosh, Anshul Verma, Rajkumar Buyya
+- [A Neuro-Symbolic Approach to Strategy Synthesis for Strategic Logics](https://arxiv.org/abs/2606.17962v1)  
+  Marco Aruta, Vadim Malvone, Aniello Murano, Domenico Parente, Luca Rizzuti
+- [A homotopy-type-theoretic generalization of neurosymbolic inference](https://arxiv.org/abs/2606.17851v1)  
+  Fernando Zhapa-Camacho, Robert Hoehndorf
+
 ### 2026-06-15
 
 - [Neuro-Symbolic Software Verification: Hyper-charging Local Language Models with Symbolic Reasoning at Scale](https://arxiv.org/abs/2606.16886v1)  
