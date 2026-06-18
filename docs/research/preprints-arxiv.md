@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-06-17
+
+- [NeSyCat Torch: A Differentiable Tensor Implementation of Categorical Semantics for Neurosymbolic Learning](https://arxiv.org/abs/2606.19279v1)  
+  Daniel Romero Schellhorn, Till Mossakowski, Björn Gehrke
+
 ### 2026-06-16
 
 - [Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents](https://arxiv.org/abs/2606.18223v1)  
