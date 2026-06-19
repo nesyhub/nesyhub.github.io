@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-06-18
+
+- [DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs](https://arxiv.org/abs/2606.20526v1)  
+  Saimun Habib, Vaishak Belle, Fengxiang He
+- [Beyond Accuracy: Measuring Logical Compliance of Predictive Models](https://arxiv.org/abs/2606.20208v1)  
+  Guillaume Olivier Delplanque, Pierre Genevès, Nabil Layaïda, Zephirin Faure
+
 ### 2026-06-17
 
 - [NeSyCat Torch: A Differentiable Tensor Implementation of Categorical Semantics for Neurosymbolic Learning](https://arxiv.org/abs/2606.19279v1)  
