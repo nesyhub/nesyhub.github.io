@@ -1,5 +1,17 @@
 # Preprints (arXiv)
 
+### 2026-06-21
+
+- [SATURN: Symbolic Spatial Reasoning for Multi-Perspective Grounding](https://arxiv.org/abs/2606.22694v1)  
+  Danial Kamali, Tanawan Premsri, Shreya Rajpal, Amir Zadeh, Chuan Li, Parisa Kordjamshidi
+- [VADAOrchestra: Neurosymbolic Orchestration of Adaptive Reasoning Workflows](https://arxiv.org/abs/2606.22485v1)  
+  Teodoro Baldazzi, Luigi Bellomarini, Andrea Coletta, Michela Iezzi, Carsten Maple, Alessandro Pesare, Emanuel Sallinger
+
+### 2026-06-19
+
+- [A Neurosymbolic Framework for Interpretable Skeleton-Based Seizure Detection via Concept-Driven Logical Reasoning](https://arxiv.org/abs/2606.21252v1)  
+  Talha Ilyas, Deval Mehta, Zongyuan Ge
+
 ### 2026-06-18
 
 - [DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs](https://arxiv.org/abs/2606.20526v1)  
