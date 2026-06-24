@@ -1,5 +1,15 @@
 # Preprints (arXiv)
 
+### 2026-06-23
+
+- [Towards Version-aware Operations and Transaction Memories for Multi-layer MeMo](https://arxiv.org/abs/2606.24040v1)  
+  Peiran Li
+
+### 2026-06-22
+
+- [Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs](https://arxiv.org/abs/2606.23938v1)  
+  Xiangbo Gao, Xiukun Huang, Boyu Lu, Junge Zhang, Mengjie Mao, Jiachen Li, Wei Xiong, Zhengzhong Tu
+
 ### 2026-06-21
 
 - [SATURN: Symbolic Spatial Reasoning for Multi-Perspective Grounding](https://arxiv.org/abs/2606.22694v1)  
