@@ -1,5 +1,17 @@
 # Preprints (arXiv)
 
+### 2026-06-25
+
+- [Resource-Aware Neuro-Symbolic Reasoning for Local Small Language Models](https://arxiv.org/abs/2606.27281v1)  
+  Carlos Ramírez Ovalle, Abel Alvarez
+- [Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure](https://arxiv.org/abs/2606.26588v1)  
+  Yiyuan Pan, Hanjiang Hu, Shangtao Li, Xusheng Luo, Changliu Liu
+
+### 2026-06-24
+
+- [KG-TRACE: A Neuro-Symbolic Framework for Mechanistic Grounding in Antimicrobial Resistance Prediction](https://arxiv.org/abs/2606.26179v1)  
+  Naman Garg, Sarika Jain, Sourav Yadav, Bharat K. Bhargava, Ghanapriya Singh, Abhishek Srivastava, Parimal Kar
+
 ### 2026-06-23
 
 - [Towards Version-aware Operations and Transaction Memories for Multi-layer MeMo](https://arxiv.org/abs/2606.24040v1)  
