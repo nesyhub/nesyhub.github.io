@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-06-26
+
+- [Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing](https://arxiv.org/abs/2606.27926v1)  
+  Can Li, Ting Zhang, Junbo Zhao, Hua Huang
+
 ### 2026-06-25
 
 - [Resource-Aware Neuro-Symbolic Reasoning for Local Small Language Models](https://arxiv.org/abs/2606.27281v1)  
