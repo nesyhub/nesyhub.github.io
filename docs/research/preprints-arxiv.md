@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-06-29
+
+- [Sequential Planning via Anchored Robotic Keypoints](https://arxiv.org/abs/2606.30613v1)  
+  Bryce Grant, Aryeh Rothenberg, Logan Senning, Zonghe Chua, Zach Patterson, Peng Wang
+- [First-Order Temporal Logic Tensor Networks](https://arxiv.org/abs/2606.29972v1)  
+  Luca Boscarato, Ivan Donadello, Alessandro Artale, Marco Montali, Fabrizio Maria Maggi
+- [The CRISTAL Method: Neurosymbolic analysis from AI-synthesized world models](https://arxiv.org/abs/2606.29799v1)  
+  Rafael Kaufmann, Felix Neubürger, Michael Walters, Thomas Kopinski, Dimitrije Marković
+
 ### 2026-06-26
 
 - [Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing](https://arxiv.org/abs/2606.27926v1)  
