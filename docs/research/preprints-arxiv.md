@@ -1,5 +1,15 @@
 # Preprints (arXiv)
 
+### 2026-07-01
+
+- [Holographic Quantum Transformer: A Generalist Neuro-Symbolic Architecture for Solving Frustrated Systems via Generative Attention](https://arxiv.org/abs/2607.00398v1)  
+  Xingran Guo, Tiaojie Xiao, Jie Liu, Keqin Li
+
+### 2026-06-30
+
+- [PolicyGuard: From Organizational Policies to Neuro-SymbolicCompliance Review Engines](https://arxiv.org/abs/2606.32004v1)  
+  Sameer Malik, Ayush Singh, Amar Prakash Azad
+
 ### 2026-06-29
 
 - [Sequential Planning via Anchored Robotic Keypoints](https://arxiv.org/abs/2606.30613v1)  
