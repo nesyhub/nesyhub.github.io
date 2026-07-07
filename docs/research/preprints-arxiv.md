@@ -1,5 +1,35 @@
 # Preprints (arXiv)
 
+### 2026-07-06
+
+- [ClassicLogic: A Knowledge-Driven Benchmark of Classic Puzzle Games for Evaluating Compositional Generalization](https://arxiv.org/abs/2607.05185v1)  
+  Mahnoor Shahid, Hannes Rothe
+
+### 2026-07-05
+
+- [Agentic SABRE: An Uncertainty-Aware Neuro-Symbolic Multi-Agent Framework for Adaptive Ransomware Detection](https://arxiv.org/abs/2607.04292v1)  
+  Henry Kabuye, Biju Issac, Jeyamohan Neera
+- [Biological Motifs for Agentic Control](https://arxiv.org/abs/2607.04240v1)  
+  Bogdan Banu
+- [Forethought: Verifiable Reasoning from Neurosymbolic Primitive Programming](https://arxiv.org/abs/2607.04096v1)  
+  Vishvesh Bhat, Jay Vaghasiya, Emmanuel Anaya Gonzalez
+
+### 2026-07-04
+
+- [Neuro-Symbolic Reasoning for Vulnerability Detection](https://arxiv.org/abs/2607.03963v1)  
+  Yanjie Zhao, Hongjie Chen, Li Lu, Zhou Yang, Xiao Cheng, Haoyu Wang
+- [NeSy-CSA: A Neuro-Symbolic Framework for Open-Ended Critical Scenario Attribution](https://arxiv.org/abs/2607.03847v1)  
+  Qitong Chu, Xunjie He, Chen Deng, Huaxin Pei, Yufeng Yue
+
+### 2026-07-03
+
+- [Differentiate the Evaluator, Not the Program: An Efficient Runtime Representation for Neuro-Symbolic Learning](https://arxiv.org/abs/2607.03574v1)  
+  Lucas Sheneman
+- [PhenoNEST: A Neuro-Symbolic Framework for Ontology-Aware Multimodal Plant Phenotyping and Trait Discovery](https://arxiv.org/abs/2607.03245v1)  
+  Jayant Ghadge, Soumyashree Kar, Surya S. Durbha
+- [Incentivizing Vision Language Models to Search for Long Video Question Answering](https://arxiv.org/abs/2607.02959v1)  
+  Harsh Goel, S P Sharan, Sahil Shah, Minkyu Choi, Joungbin An, Kristen Grauman, Sandeep P. Chinchali
+
 ### 2026-07-02
 
 - [G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models](https://arxiv.org/abs/2607.02491v1)  
