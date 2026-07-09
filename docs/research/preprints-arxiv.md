@@ -1,5 +1,15 @@
 # Preprints (arXiv)
 
+### 2026-07-08
+
+- [Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](https://arxiv.org/abs/2607.07316v1)  
+  Pranav Sawant, Jakub Krejčí
+
+### 2026-07-07
+
+- [EvoPlan: Evolutionary Neuro-Symbolic Robot Planning with Spatio-Temporal Guarantees](https://arxiv.org/abs/2607.06724v1)  
+  Bhavya Sai Nukapotula, Samin Moosavi, Haoze Wang, Luke Duncan, Diya Shakkottai, Varun Murali, Srinivas Shakkottai
+
 ### 2026-07-06
 
 - [ClassicLogic: A Knowledge-Driven Benchmark of Classic Puzzle Games for Evaluating Compositional Generalization](https://arxiv.org/abs/2607.05185v1)  
