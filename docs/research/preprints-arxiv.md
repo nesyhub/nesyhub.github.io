@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-07-09
+
+- [Log-Insight: Automating Microservice Incident Diagnosis via Neuro-Symbolic Log Analysis](https://arxiv.org/abs/2607.08529v1)  
+  Carlos Garcia-Hernandez, Aymane Abdali, Guangyu Wu, Mingxue Wang, Fei Shen, Zhaoyu Pang, Yanbin Zhang
+- [Playing ZendoWorld: Challenging AI Agents on Active Visual Concept Induction](https://arxiv.org/abs/2607.08233v1)  
+  Sophia Koehler, Antonia Wüst, Inga Ibs, Wasu Top Piriyakulkij, Wolfgang Stammer, Constantin Rothkopf, Kevin Ellis, Kristian Kersting
+- [Answer Set Programming Energised! End-to-End Neurosymbolic Reasoning and Learning with ASP and Energy Based Models](https://arxiv.org/abs/2607.08136v1)  
+  Jakob Suchan, Julius Monsen, Salim Baloch, Mehul Bhatt
+
 ### 2026-07-08
 
 - [Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](https://arxiv.org/abs/2607.07316v1)  
