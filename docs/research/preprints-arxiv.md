@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-07-13
+
+- [Verifier-Guided Twelve-Tone Composition: A Generate-Verify-Repair Harness for Symbolic Music Generation](https://arxiv.org/abs/2607.11334v1)  
+  Congren Dai, Danni Zhao, Enyang Liu, Michael Ching Yam, Zhancheng Guo, Siyi Gu, Wentao Yang, Bo Dai, Xiaobing Li, Maosong Sun
+- [What We Talk About When We Talk About LLM Planning: Evidence for Two Distinct Planning Abilities](https://arxiv.org/abs/2607.11197v1)  
+  Sukai Huang, Chenyuan Zhang, Fucai Ke, Zhixi Cai, Naim Rastgoo, Gholamreza Haffari, Hamid Rezatofighi
+
 ### 2026-07-09
 
 - [Log-Insight: Automating Microservice Incident Diagnosis via Neuro-Symbolic Log Analysis](https://arxiv.org/abs/2607.08529v1)  
