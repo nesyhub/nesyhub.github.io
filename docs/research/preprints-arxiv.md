@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-07-14
+
+- [Knowledge- and Gradient-Guided Reinforcement Learning for Parametrized Action Markov Decision Processes](https://arxiv.org/abs/2607.12924v1)  
+  Jonas Ehrhardt, René Heesch, Oliver Niggemann
+- [MaxSAT-Based Feedback for Guiding Vision-Language Models in Sudoku](https://arxiv.org/abs/2607.12711v1)  
+  Pedro Orvalho, Guillem Alenyà, Felip Manyà
+- [Antiproof: Synthesizing Vulnerability Detectors and Proofs of Exploitability](https://arxiv.org/abs/2607.12316v1)  
+  Alon Shakevsky, Corban Villa, Ion Stoica, Raluca Ada Popa
+
 ### 2026-07-13
 
 - [Verifier-Guided Twelve-Tone Composition: A Generate-Verify-Repair Harness for Symbolic Music Generation](https://arxiv.org/abs/2607.11334v1)  
