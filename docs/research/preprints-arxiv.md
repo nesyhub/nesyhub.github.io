@@ -1,5 +1,12 @@
 # Preprints (arXiv)
 
+### 2026-07-16
+
+- [An LLM-Based Automatic Sportscast Solution for Robot Soccer Matches](https://arxiv.org/abs/2607.14809v1)  
+  Francesco Petri, Michele Brienza, Daniele Nardi, Domenico Daniele Bloisi, Aldo Gangemi, Vincenzo Suriani
+- [CoTu at EXACT 2026: Neuro-Symbolic Reasoning for Transparent Educational QA](https://arxiv.org/abs/2607.14735v1)  
+  Quoc-Khang Tran, Minh-Thien Nguyen, Phu-An Thai, Xuan-Tung Bui, Truong-Thanh Ma, Nguyen-Khang Pham
+
 ### 2026-07-14
 
 - [Knowledge- and Gradient-Guided Reinforcement Learning for Parametrized Action Markov Decision Processes](https://arxiv.org/abs/2607.12924v1)  
