@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-07-17
+
+- [NeurOWL: An LLM-Based Neural-symbolic Framework for Incomplete OWL Ontology Reasoning](https://arxiv.org/abs/2607.15776v1)  
+  Hui Yang, Jiaoyan Chen, Yiping Song, Renate Schmidt, Wen Zhang
+- [A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning](https://arxiv.org/abs/2607.15674v1)  
+  Kalana Ratnayake, Michael Pritchard, David Hinwood, Maleen Jayasuriya, Damith Herath
+- [Neuro-Symbolic AI for LEED compliance: Document-Centric Benchmarking, Deterministic Numeric Checking, and When Multimodal Hurts](https://arxiv.org/abs/2607.15647v1)  
+  Aritro De, Juliana Felkner
+
 ### 2026-07-16
 
 - [An LLM-Based Automatic Sportscast Solution for Robot Soccer Matches](https://arxiv.org/abs/2607.14809v1)  
