@@ -1,5 +1,10 @@
 # Preprints (arXiv)
 
+### 2026-07-18
+
+- [Constraint-Anchored Reasoning Traces](https://arxiv.org/abs/2607.16727v1)  
+  Zehua Cheng, Wei Dai, Jiahao Sun
+
 ### 2026-07-17
 
 - [NeurOWL: An LLM-Based Neural-symbolic Framework for Incomplete OWL Ontology Reasoning](https://arxiv.org/abs/2607.15776v1)  
