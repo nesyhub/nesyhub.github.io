@@ -1,5 +1,21 @@
 # Preprints (arXiv)
 
+### 2026-07-21
+
+- [Parallel Noising in Neural Markov Logic Networks](https://arxiv.org/abs/2607.19126v1)  
+  Peter Jung, Giuseppe Marra, Ondrej Kuzelka
+- [From Dependency to Compositionality: A Neurosymbolic Lifting of LLM Outputs via Combinatory Categorial Grammar](https://arxiv.org/abs/2607.18961v1)  
+  Remo Pareschi
+- [NSMA: Neuro-Symbolic Manifold Alignment for Generalizable Adaptive Bitrate Streaming under Texture Shift](https://arxiv.org/abs/2607.18845v1)  
+  Zhiqiang He, Zhi Liu
+
+### 2026-07-20
+
+- [Computational models of pragmatic reasoning with flexible generation of meaning and expression alternatives](https://arxiv.org/abs/2607.18443v1)  
+  Polina Tsvilodub, Fausto Carcassi, Michael Franke
+- [Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability](https://arxiv.org/abs/2607.18368v1)  
+  Taewoon Kim, Vincent François-Lavet, Michael Cochez
+
 ### 2026-07-18
 
 - [Constraint-Anchored Reasoning Traces](https://arxiv.org/abs/2607.16727v1)  
