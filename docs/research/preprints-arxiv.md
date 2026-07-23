@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-07-22
+
+- [SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data](https://arxiv.org/abs/2607.20402v1)  
+  Wael AbdAlmageed
+- [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268v1)  
+  Anmol Kankariya, Sercan Ö. Arık
+- [Neuro-Symbolic AI for Korean Criminal Law: Sentencing Prediction and Document Drafting](https://arxiv.org/abs/2607.19740v1)  
+  Yeonseok Lee
+
 ### 2026-07-21
 
 - [Parallel Noising in Neural Markov Logic Networks](https://arxiv.org/abs/2607.19126v1)  
