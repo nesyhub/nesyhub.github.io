@@ -1,5 +1,14 @@
 # Preprints (arXiv)
 
+### 2026-07-23
+
+- [Euclid-MCP: A Model Context Protocol Server for Deterministic Logical Reasoning via Prolog](https://arxiv.org/abs/2607.21412v1)  
+  Bartolomeo Bogliolo
+- [Identifying Good Rules for Efficient SAT Encodings of Single-Constant Multiplication Using Machine Learning](https://arxiv.org/abs/2607.21188v1)  
+  Chufeng Jiang, Neng-Fa Zhou
+- [Differentiable Logic Programming to Mitigate Reasoning Shortcuts in Neurosymbolic Systems](https://arxiv.org/abs/2607.21185v1)  
+  Akihiro Takemura, Katsumi Inoue
+
 ### 2026-07-22
 
 - [SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data](https://arxiv.org/abs/2607.20402v1)  
